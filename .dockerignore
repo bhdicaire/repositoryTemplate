@@ -1,0 +1,26 @@
+# Common
+Thumbs.db
+.DS_Store
+*.md
+docker-compose.yml
+Dockerfile*
+.env*
+Makefile
+
+# Logs
+logs
+*.log
+
+
+# Dependency directories
+node_modules/
+.venv/
+
+## Cache directories
+.parcel-cache
+
+# git
+.git
+.gitattributes
+.gitignore
+.github/

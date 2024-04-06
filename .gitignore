@@ -1,0 +1,19 @@
+##### Folders #####
+build/
+dist/
+node_modules/
+vendor/
+var/
+.tmp/
+.venv/
+
+##### Files #####
+Thumbs.db
+.DS_Store
+ignore.*
+*.ignore.*
+
+# Environment variables and secret keys
+.env
+.env.test
+*.pem
