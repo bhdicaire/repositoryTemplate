@@ -1,5 +1,7 @@
-# Emojis
+# Emojis available in Github flavored Markdown.
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Emojis](https://img.shields.io/badge/github_emojis)
+
 ## Instructions
 1.  Copy and paste the shortcode in the Markdown document
 
