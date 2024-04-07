@@ -1,5 +1,7 @@
-# emoji
+# Emojis
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+## Instructions
+1.  Copy and paste the shortcode in the Markdown document
 
 ## Smileys & Emotion
 ### Face Smiling
@@ -15,7 +17,7 @@
 
 ### Face Affection
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :smiling_face_with_three_hearts: | `:smiling_face_with_three_hearts:` | :heart_eyes: | `:heart_eyes:` |
 | :star_struck: | `:star_struck:` | :kissing_heart: | `:kissing_heart:` |
 | :kissing: | `:kissing:` | :relaxed: | `:relaxed:` |
@@ -25,7 +27,7 @@
 ### Face Tongue
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :yum: | `:yum:` | :stuck_out_tongue: | `:stuck_out_tongue:` |
 | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` | :zany_face: | `:zany_face:` |
 | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | :money_mouth_face: | `:money_mouth_face:` |
@@ -33,14 +35,14 @@
 ### Face Hand
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :hugs: | `:hugs:` | :hand_over_mouth: | `:hand_over_mouth:` |
 | :shushing_face: | `:shushing_face:` | :thinking: | `:thinking:` |
 
 ### Face Neutral Skeptical
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :zipper_mouth_face: | `:zipper_mouth_face:` | :raised_eyebrow: | `:raised_eyebrow:` |
 | :neutral_face: | `:neutral_face:` | :expressionless: | `:expressionless:` |
 | :no_mouth: | `:no_mouth:` | :face_in_clouds: | `:face_in_clouds:` |
@@ -51,7 +53,7 @@
 ### Face Sleepy
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :relieved: | `:relieved:` | :pensive: | `:pensive:` |
 | :sleepy: | `:sleepy:` | :drooling_face: | `:drooling_face:` |
 | :sleeping: | `:sleeping:`|
@@ -59,7 +61,7 @@
 ### Face Unwell
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :mask: | `:mask:` | :face_with_thermometer: | `:face_with_thermometer:` |
 | :face_with_head_bandage: | `:face_with_head_bandage:` | :nauseated_face: | `:nauseated_face:` |
 | :vomiting_face: | `:vomiting_face:` | :sneezing_face: | `:sneezing_face:` |
@@ -70,21 +72,21 @@
 ### Face Hat
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :cowboy_hat_face: | `:cowboy_hat_face:` | :partying_face: | `:partying_face:` |
 | :disguised_face: | `:disguised_face:`|
 
 ### Face Glasses
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :sunglasses: | `:sunglasses:` | :nerd_face: | `:nerd_face:` |
 | :monocle_face: | `:monocle_face:`|
 
 ### Face Concerned
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :confused: | `:confused:` | :worried: | `:worried:` |
 | :slightly_frowning_face: | `:slightly_frowning_face:` | :frowning_face: | `:frowning_face:` |
 | :open_mouth: | `:open_mouth:` | :hushed: | `:hushed:` |
@@ -101,7 +103,7 @@
 ### Face Negative
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :triumph: | `:triumph:` | :pout: | `:pout:` <br /> `:rage:` |
 | :angry: | `:angry:` | :cursing_face: | `:cursing_face:` |
 | :smiling_imp: | `:smiling_imp:` | :imp: | `:imp:` |
@@ -110,7 +112,7 @@
 ### Face Costume
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :hankey: | `:hankey:` <br /> `:poop:` <br /> `:shit:` | :clown_face: | `:clown_face:` |
 | :japanese_ogre: | `:japanese_ogre:` | :japanese_goblin: | `:japanese_goblin:` |
 | :ghost: | `:ghost:` | :alien: | `:alien:` |
@@ -119,7 +121,7 @@
 ### Cat Face
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :smiley_cat: | `:smiley_cat:` | :smile_cat: | `:smile_cat:` |
 | :joy_cat: | `:joy_cat:` | :heart_eyes_cat: | `:heart_eyes_cat:` |
 | :smirk_cat: | `:smirk_cat:` | :kissing_cat: | `:kissing_cat:` |
@@ -129,14 +131,14 @@
 ### Monkey Face
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :see_no_evil: | `:see_no_evil:` | :hear_no_evil: | `:hear_no_evil:` |
 | :speak_no_evil: | `:speak_no_evil:`|
 
 ### Heart
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :love_letter: | `:love_letter:` | :cupid: | `:cupid:` |
 | :gift_heart: | `:gift_heart:` | :sparkling_heart: | `:sparkling_heart:` |
 | :heartpulse: | `:heartpulse:` | :heartbeat: | `:heartbeat:` |
@@ -152,7 +154,7 @@
 ### Emotion
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :kiss: | `:kiss:` | :100: | `:100:` |
 | :anger: | `:anger:` | :boom: | `:boom:` <br /> `:collision:` |
 | :dizzy: | `:dizzy:` | :sweat_drops: | `:sweat_drops:` |
@@ -165,7 +167,7 @@
 
 ### Hand Fingers Open
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :wave: | `:wave:` | :raised_back_of_hand: | `:raised_back_of_hand:` |
 | :raised_hand_with_fingers_splayed: | `:raised_hand_with_fingers_splayed:` | :hand: | `:hand:` <br /> `:raised_hand:` |
 | :vulcan_salute: | `:vulcan_salute:`|
@@ -173,7 +175,7 @@
 ### Hand Fingers Partial
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :ok_hand: | `:ok_hand:` | :pinched_fingers: | `:pinched_fingers:` |
 | :pinching_hand: | `:pinching_hand:` | :v: | `:v:` |
 | :crossed_fingers: | `:crossed_fingers:` | :love_you_gesture: | `:love_you_gesture:` |
@@ -182,7 +184,7 @@
 ### Hand Single Finger
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :point_left: | `:point_left:` | :point_right: | `:point_right:` |
 | :point_up_2: | `:point_up_2:` | :fu: | `:fu:` <br /> `:middle_finger:` |
 | :point_down: | `:point_down:` | :point_up: | `:point_up:` |
@@ -190,7 +192,7 @@
 ### Hand Fingers Closed
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :+1: | `:+1:` <br /> `:thumbsup:` | :-1: | `:-1:` <br /> `:thumbsdown:` |
 | :fist: | `:fist:` <br /> `:fist_raised:` | :facepunch: | `:facepunch:` <br /> `:fist_oncoming:` <br /> `:punch:` |
 | :fist_left: | `:fist_left:` | :fist_right: | `:fist_right:` |
@@ -198,7 +200,7 @@
 ### Hands
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :clap: | `:clap:` | :raised_hands: | `:raised_hands:` |
 | :open_hands: | `:open_hands:` | :palms_up_together: | `:palms_up_together:` |
 | :handshake: | `:handshake:` | :pray: | `:pray:` |
@@ -206,14 +208,14 @@
 ### Hand Prop
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :writing_hand: | `:writing_hand:` | :nail_care: | `:nail_care:` |
 | :selfie: | `:selfie:`|
 
 ### Body Parts
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :muscle: | `:muscle:` | :mechanical_arm: | `:mechanical_arm:` |
 | :mechanical_leg: | `:mechanical_leg:` | :leg: | `:leg:` |
 | :foot: | `:foot:` | :ear: | `:ear:` |
@@ -227,7 +229,7 @@
 ### Person
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :baby: | `:baby:` | :child: | `:child:` |
 | :boy: | `:boy:` | :girl: | `:girl:` |
 | :adult: | `:adult:` | :blond_haired_person: | `:blond_haired_person:` |
@@ -246,7 +248,7 @@
 ### Person Gesture
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :frowning_person: | `:frowning_person:` | :frowning_man: | `:frowning_man:` |
 | :frowning_woman: | `:frowning_woman:` | :pouting_face: | `:pouting_face:` |
 | :pouting_man: | `:pouting_man:` | :pouting_woman: | `:pouting_woman:` |
@@ -266,7 +268,7 @@
 ### Person Role
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :health_worker: | `:health_worker:` | :man_health_worker: | `:man_health_worker:` |
 | :woman_health_worker: | `:woman_health_worker:` | :student: | `:student:` |
 | :man_student: | `:man_student:` | :woman_student: | `:woman_student:` |
@@ -311,7 +313,7 @@
 ### Person Fantasy
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :angel: | `:angel:` | :santa: | `:santa:` |
 | :mrs_claus: | `:mrs_claus:` | :mx_claus: | `:mx_claus:` |
 | :superhero: | `:superhero:` | :superhero_man: | `:superhero_man:` |
@@ -332,7 +334,7 @@
 ### Person Activity
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :massage: | `:massage:` | :massage_man: | `:massage_man:` |
 | :massage_woman: | `:massage_woman:` | :haircut: | `:haircut:` |
 | :haircut_man: | `:haircut_man:` | :haircut_woman: | `:haircut_woman:` |
@@ -357,7 +359,7 @@
 ### Person Sport
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :person_fencing: | `:person_fencing:` | :horse_racing: | `:horse_racing:` |
 | :skier: | `:skier:` | :snowboarder: | `:snowboarder:` |
 | :golfing: | `:golfing:` | :golfing_man: | `:golfing_man:` |
@@ -384,7 +386,7 @@
 ### Person Resting
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :lotus_position: | `:lotus_position:` | :lotus_position_man: | `:lotus_position_man:` |
 | :lotus_position_woman: | `:lotus_position_woman:` | :bath: | `:bath:` |
 | :sleeping_bed: | `:sleeping_bed:`|
@@ -392,7 +394,7 @@
 ### Family
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :people_holding_hands: | `:people_holding_hands:` | :two_women_holding_hands: | `:two_women_holding_hands:` |
 | :couple: | `:couple:` | :two_men_holding_hands: | `:two_men_holding_hands:` |
 | :couplekiss: | `:couplekiss:` | :couplekiss_man_woman: | `:couplekiss_man_woman:` |
@@ -416,7 +418,7 @@
 ### Person Symbol
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :speaking_head: | `:speaking_head:` | :bust_in_silhouette: | `:bust_in_silhouette:` |
 | :busts_in_silhouette: | `:busts_in_silhouette:` | :people_hugging: | `:people_hugging:` |
 | :family: | `:family:` | :footprints: | `:footprints:` |
@@ -425,7 +427,7 @@
 
 ### Animal Mammal
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :monkey_face: | `:monkey_face:` | :monkey: | `:monkey:` |
 | :gorilla: | `:gorilla:` | :orangutan: | `:orangutan:` |
 | :dog: | `:dog:` | :dog2: | `:dog2:` |
@@ -462,7 +464,7 @@
 ### Animal Bird
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :turkey: | `:turkey:` | :chicken: | `:chicken:` |
 | :rooster: | `:rooster:` | :hatching_chick: | `:hatching_chick:` |
 | :baby_chick: | `:baby_chick:` | :hatched_chick: | `:hatched_chick:` |
@@ -482,7 +484,7 @@
 ### Animal Reptile
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :crocodile: | `:crocodile:` | :turtle: | `:turtle:` |
 | :lizard: | `:lizard:` | :snake: | `:snake:` |
 | :dragon_face: | `:dragon_face:` | :dragon: | `:dragon:` |
@@ -491,7 +493,7 @@
 ### Animal Marine
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :whale: | `:whale:` | :whale2: | `:whale2:` |
 | :dolphin: | `:dolphin:` <br /> `:flipper:` | :seal: | `:seal:` |
 | :fish: | `:fish:` | :tropical_fish: | `:tropical_fish:` |
@@ -501,7 +503,7 @@
 ### Animal Bug
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :snail: | `:snail:` | :butterfly: | `:butterfly:` |
 | :bug: | `:bug:` | :ant: | `:ant:` |
 | :bee: | `:bee:` <br /> `:honeybee:` | :beetle: | `:beetle:` |
@@ -514,7 +516,7 @@
 ### Plant Flower
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :bouquet: | `:bouquet:` | :cherry_blossom: | `:cherry_blossom:` |
 | :white_flower: | `:white_flower:` | :rosette: | `:rosette:` |
 | :rose: | `:rose:` | :wilted_flower: | `:wilted_flower:` |
@@ -524,7 +526,7 @@
 ### Plant Other
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :seedling: | `:seedling:` | :potted_plant: | `:potted_plant:` |
 | :evergreen_tree: | `:evergreen_tree:` | :deciduous_tree: | `:deciduous_tree:` |
 | :palm_tree: | `:palm_tree:` | :cactus: | `:cactus:` |
@@ -538,7 +540,7 @@
 ### Food Fruit
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :grapes: | `:grapes:` | :melon: | `:melon:` |
 | :watermelon: | `:watermelon:` | :mandarin: | `:mandarin:` <br /> `:orange:` <br /> `:tangerine:` |
 | :lemon: | `:lemon:` | :banana: | `:banana:` |
@@ -553,7 +555,7 @@
 ### Food Vegetable
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :avocado: | `:avocado:` | :eggplant: | `:eggplant:` |
 | :potato: | `:potato:` | :carrot: | `:carrot:` |
 | :corn: | `:corn:` | :hot_pepper: | `:hot_pepper:` |
@@ -565,7 +567,7 @@
 ### Food Prepared
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :bread: | `:bread:` | :croissant: | `:croissant:` |
 | :baguette_bread: | `:baguette_bread:` | :flatbread: | `:flatbread:` |
 | :pretzel: | `:pretzel:` | :bagel: | `:bagel:` |
@@ -587,7 +589,7 @@
 ### Food Asian
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :bento: | `:bento:` | :rice_cracker: | `:rice_cracker:` |
 | :rice_ball: | `:rice_ball:` | :rice: | `:rice:` |
 | :curry: | `:curry:` | :ramen: | `:ramen:` |
@@ -601,7 +603,7 @@
 ### Food Marine
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :crab: | `:crab:` | :lobster: | `:lobster:` |
 | :shrimp: | `:shrimp:` | :squid: | `:squid:` |
 | :oyster: | `:oyster:`|
@@ -609,7 +611,7 @@
 ### Food Sweet
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :icecream: | `:icecream:` | :shaved_ice: | `:shaved_ice:` |
 | :ice_cream: | `:ice_cream:` | :doughnut: | `:doughnut:` |
 | :cookie: | `:cookie:` | :birthday: | `:birthday:` |
@@ -621,7 +623,7 @@
 ### Drink
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :baby_bottle: | `:baby_bottle:` | :milk_glass: | `:milk_glass:` |
 | :coffee: | `:coffee:` | :teapot: | `:teapot:` |
 | :tea: | `:tea:` | :sake: | `:sake:` |
@@ -636,7 +638,7 @@
 ### Dishware
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :chopsticks: | `:chopsticks:` | :plate_with_cutlery: | `:plate_with_cutlery:` |
 | :fork_and_knife: | `:fork_and_knife:` | :spoon: | `:spoon:` |
 | :hocho: | `:hocho:` <br /> `:knife:` | :amphora: | `:amphora:` |
@@ -645,7 +647,7 @@
 
 ### Place Map
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :earth_africa: | `:earth_africa:` | :earth_americas: | `:earth_americas:` |
 | :earth_asia: | `:earth_asia:` | :globe_with_meridians: | `:globe_with_meridians:` |
 | :world_map: | `:world_map:` | :japan: | `:japan:` |
@@ -654,7 +656,7 @@
 ### Place Geographic
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :mountain_snow: | `:mountain_snow:` | :mountain: | `:mountain:` |
 | :volcano: | `:volcano:` | :mount_fuji: | `:mount_fuji:` |
 | :camping: | `:camping:` | :beach_umbrella: | `:beach_umbrella:` |
@@ -664,7 +666,7 @@
 ### Place Building
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :stadium: | `:stadium:` | :classical_building: | `:classical_building:` |
 | :building_construction: | `:building_construction:` | :bricks: | `:bricks:` |
 | :rock: | `:rock:` | :wood: | `:wood:` |
@@ -683,7 +685,7 @@
 ### Place Religious
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :church: | `:church:` | :mosque: | `:mosque:` |
 | :hindu_temple: | `:hindu_temple:` | :synagogue: | `:synagogue:` |
 | :shinto_shrine: | `:shinto_shrine:` | :kaaba: | `:kaaba:` |
@@ -691,7 +693,7 @@
 ### Place Other
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :fountain: | `:fountain:` | :tent: | `:tent:` |
 | :foggy: | `:foggy:` | :night_with_stars: | `:night_with_stars:` |
 | :cityscape: | `:cityscape:` | :sunrise_over_mountains: | `:sunrise_over_mountains:` |
@@ -704,7 +706,7 @@
 ### Transport Ground
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :steam_locomotive: | `:steam_locomotive:` | :railway_car: | `:railway_car:` |
 | :bullettrain_side: | `:bullettrain_side:` | :bullettrain_front: | `:bullettrain_front:` |
 | :train2: | `:train2:` | :metro: | `:metro:` |
@@ -734,7 +736,7 @@
 ### Transport Water
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :anchor: | `:anchor:` | :boat: | `:boat:` <br /> `:sailboat:` |
 | :canoe: | `:canoe:` | :speedboat: | `:speedboat:` |
 | :passenger_ship: | `:passenger_ship:` | :ferry: | `:ferry:` |
@@ -743,7 +745,7 @@
 ### Transport Air
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :airplane: | `:airplane:` | :small_airplane: | `:small_airplane:` |
 | :flight_departure: | `:flight_departure:` | :flight_arrival: | `:flight_arrival:` |
 | :parachute: | `:parachute:` | :seat: | `:seat:` |
@@ -755,13 +757,13 @@
 ### Hotel
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :bellhop_bell: | `:bellhop_bell:` | :luggage: | `:luggage:` |
 
 ### Time
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :hourglass: | `:hourglass:` | :hourglass_flowing_sand: | `:hourglass_flowing_sand:` |
 | :watch: | `:watch:` | :alarm_clock: | `:alarm_clock:` |
 | :stopwatch: | `:stopwatch:` | :timer_clock: | `:timer_clock:` |
@@ -782,7 +784,7 @@
 ### Sky & Weather
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :new_moon: | `:new_moon:` | :waxing_crescent_moon: | `:waxing_crescent_moon:` |
 | :first_quarter_moon: | `:first_quarter_moon:` | :moon: | `:moon:` <br /> `:waxing_gibbous_moon:` |
 | :full_moon: | `:full_moon:` | :waning_gibbous_moon: | `:waning_gibbous_moon:` |
@@ -808,18 +810,11 @@
 | :fire: | `:fire:` | :droplet: | `:droplet:` |
 | :ocean: | `:ocean:`|
 
-### Activities
-
-- [Event](#event)
-- [Award Medal](#award-medal)
-- [Sport](#sport)
-- [Game](#game)
-- [Arts & Crafts](#arts--crafts)
+## Activities
 
 ### Event
-
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :jack_o_lantern: | `:jack_o_lantern:` | :christmas_tree: | `:christmas_tree:` |
 | :fireworks: | `:fireworks:` | :sparkler: | `:sparkler:` |
 | :firecracker: | `:firecracker:` | :sparkles: | `:sparkles:` |
@@ -835,7 +830,7 @@
 ### Award Medal
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :medal_military: | `:medal_military:` | :trophy: | `:trophy:` |
 | :medal_sports: | `:medal_sports:` | :1st_place_medal: | `:1st_place_medal:` |
 | :2nd_place_medal: | `:2nd_place_medal:` | :3rd_place_medal: | `:3rd_place_medal:` |
@@ -843,7 +838,7 @@
 ### Sport
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :soccer: | `:soccer:` | :baseball: | `:baseball:` |
 | :softball: | `:softball:` | :basketball: | `:basketball:` |
 | :volleyball: | `:volleyball:` | :football: | `:football:` |
@@ -862,7 +857,7 @@
 ### Game
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :dart: | `:dart:` | :yo_yo: | `:yo_yo:` |
 | :kite: | `:kite:` | :gun: | `:gun:` |
 | :8ball: | `:8ball:` | :crystal_ball: | `:crystal_ball:` |
@@ -879,7 +874,7 @@
 ### Arts & Crafts
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :performing_arts: | `:performing_arts:` | :framed_picture: | `:framed_picture:` |
 | :art: | `:art:` | :thread: | `:thread:` |
 | :sewing_needle: | `:sewing_needle:` | :yarn: | `:yarn:` |
@@ -890,7 +885,7 @@
 ### Clothing
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :eyeglasses: | `:eyeglasses:` | :dark_sunglasses: | `:dark_sunglasses:` |
 | :goggles: | `:goggles:` | :lab_coat: | `:lab_coat:` |
 | :safety_vest: | `:safety_vest:` | :necktie: | `:necktie:` |
@@ -918,7 +913,7 @@
 ### Sound
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :mute: | `:mute:` | :speaker: | `:speaker:` |
 | :sound: | `:sound:` | :loud_sound: | `:loud_sound:` |
 | :loudspeaker: | `:loudspeaker:` | :mega: | `:mega:` |
@@ -928,7 +923,7 @@
 ### Music
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :musical_score: | `:musical_score:` | :musical_note: | `:musical_note:` |
 | :notes: | `:notes:` | :studio_microphone: | `:studio_microphone:` |
 | :level_slider: | `:level_slider:` | :control_knobs: | `:control_knobs:` |
@@ -938,7 +933,7 @@
 ### Musical Instrument
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :saxophone: | `:saxophone:` | :accordion: | `:accordion:` |
 | :guitar: | `:guitar:` | :musical_keyboard: | `:musical_keyboard:` |
 | :trumpet: | `:trumpet:` | :violin: | `:violin:` |
@@ -948,7 +943,7 @@
 ### Phone
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :iphone: | `:iphone:` | :calling: | `:calling:` |
 | :phone: | `:phone:` <br /> `:telephone:` | :telephone_receiver: | `:telephone_receiver:` |
 | :pager: | `:pager:` | :fax: | `:fax:` |
@@ -956,7 +951,7 @@
 ### Computer
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :battery: | `:battery:` | :electric_plug: | `:electric_plug:` |
 | :computer: | `:computer:` | :desktop_computer: | `:desktop_computer:` |
 | :printer: | `:printer:` | :keyboard: | `:keyboard:` |
@@ -968,7 +963,7 @@
 ### Light & Video
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :movie_camera: | `:movie_camera:` | :film_strip: | `:film_strip:` |
 | :film_projector: | `:film_projector:` | :clapper: | `:clapper:` |
 | :tv: | `:tv:` | :camera: | `:camera:` |
@@ -981,7 +976,7 @@
 ### Book Paper
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :notebook_with_decorative_cover: | `:notebook_with_decorative_cover:` | :closed_book: | `:closed_book:` |
 | :book: | `:book:` <br /> `:open_book:` | :green_book: | `:green_book:` |
 | :blue_book: | `:blue_book:` | :orange_book: | `:orange_book:` |
@@ -995,7 +990,7 @@
 ### Money
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :moneybag: | `:moneybag:` | :coin: | `:coin:` |
 | :yen: | `:yen:` | :dollar: | `:dollar:` |
 | :euro: | `:euro:` | :pound: | `:pound:` |
@@ -1005,7 +1000,7 @@
 ### Mail
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :envelope: | `:envelope:` | :e-mail: | `:e-mail:` <br /> `:email:` |
 | :incoming_envelope: | `:incoming_envelope:` | :envelope_with_arrow: | `:envelope_with_arrow:` |
 | :outbox_tray: | `:outbox_tray:` | :inbox_tray: | `:inbox_tray:` |
@@ -1017,7 +1012,7 @@
 ### Writing
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :pencil2: | `:pencil2:` | :black_nib: | `:black_nib:` |
 | :fountain_pen: | `:fountain_pen:` | :pen: | `:pen:` |
 | :paintbrush: | `:paintbrush:` | :crayon: | `:crayon:` |
@@ -1026,7 +1021,7 @@
 ### Office
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :briefcase: | `:briefcase:` | :file_folder: | `:file_folder:` |
 | :open_file_folder: | `:open_file_folder:` | :card_index_dividers: | `:card_index_dividers:` |
 | :date: | `:date:` | :calendar: | `:calendar:` |
@@ -1043,7 +1038,7 @@
 ### Lock
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :lock: | `:lock:` | :unlock: | `:unlock:` |
 | :lock_with_ink_pen: | `:lock_with_ink_pen:` | :closed_lock_with_key: | `:closed_lock_with_key:` |
 | :key: | `:key:` | :old_key: | `:old_key:` |
@@ -1051,7 +1046,7 @@
 ### Tool
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :hammer: | `:hammer:` | :axe: | `:axe:` |
 | :pick: | `:pick:` | :hammer_and_pick: | `:hammer_and_pick:` |
 | :hammer_and_wrench: | `:hammer_and_wrench:` | :dagger: | `:dagger:` |
@@ -1069,7 +1064,7 @@
 ### Science
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :alembic: | `:alembic:` | :test_tube: | `:test_tube:` |
 | :petri_dish: | `:petri_dish:` | :dna: | `:dna:` |
 | :microscope: | `:microscope:` | :telescope: | `:telescope:` |
@@ -1078,7 +1073,7 @@
 ### Medical
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :syringe: | `:syringe:` | :drop_of_blood: | `:drop_of_blood:` |
 | :pill: | `:pill:` | :adhesive_bandage: | `:adhesive_bandage:` |
 | :stethoscope: | `:stethoscope:`|
@@ -1086,7 +1081,7 @@
 ### Household
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :door: | `:door:` | :elevator: | `:elevator:` |
 | :mirror: | `:mirror:` | :window: | `:window:` |
 | :bed: | `:bed:` | :couch_and_lamp: | `:couch_and_lamp:` |
@@ -1103,7 +1098,7 @@
 ### Other Object
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :smoking: | `:smoking:` | :coffin: | `:coffin:` |
 | :headstone: | `:headstone:` | :funeral_urn: | `:funeral_urn:` |
 | :nazar_amulet: | `:nazar_amulet:` | :moyai: | `:moyai:` |
@@ -1114,7 +1109,7 @@
 ### Transport Sign
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :atm: | `:atm:` | :put_litter_in_its_place: | `:put_litter_in_its_place:` |
 | :potable_water: | `:potable_water:` | :wheelchair: | `:wheelchair:` |
 | :mens: | `:mens:` | :womens: | `:womens:` |
@@ -1126,7 +1121,7 @@
 ### Warning
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :warning: | `:warning:` | :children_crossing: | `:children_crossing:` |
 | :no_entry: | `:no_entry:` | :no_entry_sign: | `:no_entry_sign:` |
 | :no_bicycles: | `:no_bicycles:` | :no_smoking: | `:no_smoking:` |
@@ -1138,7 +1133,7 @@
 ### Arrow
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :arrow_up: | `:arrow_up:` | :arrow_upper_right: | `:arrow_upper_right:` |
 | :arrow_right: | `:arrow_right:` | :arrow_lower_right: | `:arrow_lower_right:` |
 | :arrow_down: | `:arrow_down:` | :arrow_lower_left: | `:arrow_lower_left:` |
@@ -1154,7 +1149,7 @@
 ### Religion
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :place_of_worship: | `:place_of_worship:` | :atom_symbol: | `:atom_symbol:` |
 | :om: | `:om:` | :star_of_david: | `:star_of_david:` |
 | :wheel_of_dharma: | `:wheel_of_dharma:` | :yin_yang: | `:yin_yang:` |
@@ -1165,7 +1160,7 @@
 ### Zodiac
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :aries: | `:aries:` | :taurus: | `:taurus:` |
 | :gemini: | `:gemini:` | :cancer: | `:cancer:` |
 | :leo: | `:leo:` | :virgo: | `:virgo:` |
@@ -1177,7 +1172,7 @@
 ### Av Symbol
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` | :repeat: | `:repeat:` |
 | :repeat_one: | `:repeat_one:` | :arrow_forward: | `:arrow_forward:` |
 | :fast_forward: | `:fast_forward:` | :next_track_button: | `:next_track_button:` |
@@ -1194,14 +1189,14 @@
 ### Gender
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :female_sign: | `:female_sign:` | :male_sign: | `:male_sign:` |
 | :transgender_symbol: | `:transgender_symbol:`|
 
 ### Math
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :heavy_multiplication_x: | `:heavy_multiplication_x:` | :heavy_plus_sign: | `:heavy_plus_sign:` |
 | :heavy_minus_sign: | `:heavy_minus_sign:` | :heavy_division_sign: | `:heavy_division_sign:` |
 | :infinity: | `:infinity:`|
@@ -1209,7 +1204,7 @@
 ### Punctuation
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :bangbang: | `:bangbang:` | :interrobang: | `:interrobang:` |
 | :question: | `:question:` | :grey_question: | `:grey_question:` |
 | :grey_exclamation: | `:grey_exclamation:` | :exclamation: | `:exclamation:` <br /> `:heavy_exclamation_mark:` |
@@ -1218,13 +1213,13 @@
 ### Currency
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :currency_exchange: | `:currency_exchange:` | :heavy_dollar_sign: | `:heavy_dollar_sign:` |
 
 ### Other Symbol
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :medical_symbol: | `:medical_symbol:` | :recycle: | `:recycle:` |
 | :fleur_de_lis: | `:fleur_de_lis:` | :trident: | `:trident:` |
 | :name_badge: | `:name_badge:` | :beginner: | `:beginner:` |
@@ -1240,7 +1235,7 @@
 ### Keycap
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :hash: | `:hash:` | :asterisk: | `:asterisk:` |
 | :zero: | `:zero:` | :one: | `:one:` |
 | :two: | `:two:` | :three: | `:three:` |
@@ -1252,7 +1247,7 @@
 ### Alphanum
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :capital_abcd: | `:capital_abcd:` | :abcd: | `:abcd:` |
 | :1234: | `:1234:` | :symbols: | `:symbols:` |
 | :abc: | `:abc:` | :a: | `:a:` |
@@ -1277,7 +1272,7 @@
 ### Geometric
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :red_circle: | `:red_circle:` | :orange_circle: | `:orange_circle:` |
 | :yellow_circle: | `:yellow_circle:` | :green_circle: | `:green_circle:` |
 | :large_blue_circle: | `:large_blue_circle:` | :purple_circle: | `:purple_circle:` |
@@ -1301,7 +1296,7 @@
 ### Flag
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :checkered_flag: | `:checkered_flag:` | :triangular_flag_on_post: | `:triangular_flag_on_post:` |
 | :crossed_flags: | `:crossed_flags:` | :black_flag: | `:black_flag:` |
 | :white_flag: | `:white_flag:` | :rainbow_flag: | `:rainbow_flag:` |
@@ -1310,7 +1305,7 @@
 ### Country Flag
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :ascension_island: | `:ascension_island:` | :andorra: | `:andorra:` |
 | :united_arab_emirates: | `:united_arab_emirates:` | :afghanistan: | `:afghanistan:` |
 | :antigua_barbuda: | `:antigua_barbuda:` | :anguilla: | `:anguilla:` |
@@ -1444,14 +1439,14 @@
 ### Subdivision Flag
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :england: | `:england:` | :scotland: | `:scotland:` |
 | :wales: | `:wales:`|
 
 ## GitHub Custom Emoji
 
 | ico | shortcode | ico | shortcode |
-| :-: | - | :-: | - |
+| :-: | :- | :-: | :- |
 | :accessibility: | `:accessibility:` | :atom: | `:atom:` |
 | :basecamp: | `:basecamp:` | :basecampy: | `:basecampy:` |
 | :bowtie: | `:bowtie:` | :dependabot: | `:dependabot:` |
