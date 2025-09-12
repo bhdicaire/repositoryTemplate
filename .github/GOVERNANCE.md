@@ -8,7 +8,7 @@ This document explains how decisions are made and how contributions are managed 
 - **Maintainer**: The person (or small group) with write access to the repository, responsible for reviewing contributions and making final decisions
 
 Currently, this project is maintained by:
-- [Benoît H. Dicaire]([@BHDicaire](https://github.com/bhdicaire))
+- [Benoît H. Dicaire (@BHDicaire)](https://github.com/bhdicaire)
 
 ## Decision-Making
 - Day-to-day changes (bug fixes, minor improvements) are decided by the maintainer and merged after review
