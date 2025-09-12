@@ -22,7 +22,7 @@ Please review our [code of conduct](.github/CODE_OF_CONDUCT.md) before contribut
 
 :warning: Security issues must not be reported publicly, please follow our [security](.github/SECURITY.md) guidelines.
 
-If you find a bug, open a new [issue](https://github.com/bhdicaire/repositoryTemplate/issues/new/choose). A great bug report includes:
+If you find a bug, open a new [issue](../../../issues/new/choose). A great bug report includes:
  * A quick summary or background information
  * Steps to reproduce, be specific and include sample code if possible
  * What you expected to happen
