@@ -1,11 +1,18 @@
-# **Support**
+# Support
 
-## Obtain direct support from the project's owners
+Hi! 👋 We’re excited that you’re using this project and we’d love to help. 
 
-1. Open a new issue and select the issue with the template called "❓ Question or Support Request".
-2. Read the instructions carefully in that template and submit the issue asking for support
-or any question.
+Please understand that people involved with this project do so for fun, next to their day job; you are not entitled to free customer service.
 
-## Bug reports
+## General Information
+- To report security vulnerabilities, please check [SECURITY.md](SECURITY.md)
+- To contribute, refer to the [contribution guidelines](CONTRIBUTING.md), and the [code of conduct](CODE_OF_CONDUCT.md)
+- For all other issues, open a GitHub  [issue](../../../issues/new/choose)
 
-See the [contributing guidelines](CONTRIBUTING.md) for sharing bug reports and read our [code of conduct](CODE_OF_CONDUCT.md).
+## Help us help you :bulb:
+
+The more time you put into asking your question, the better we can help you
+ * Is it a concept you’re not understanding?
+ * What problem are you encountering and what steps have you taken to try and fix it?
+ * Avoid questions about your attempted solution rather than your actual problem (e.g., [XY problem](https://mywiki.wooledge.org/XyProblem))
+ * Have you tried the [rubber duck debugging method](https://rubberduckdebugging.com)?
