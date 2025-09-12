@@ -1,6 +1,5 @@
 # Governance
 
-## Purpose
 This document explains how decisions are made and how contributions are managed in this project. The goal is to keep things simple, transparent, and welcoming.
 
 ## Roles
@@ -9,7 +8,7 @@ This document explains how decisions are made and how contributions are managed 
 - **Maintainer**: The person (or small group) with write access to the repository, responsible for reviewing contributions and making final decisions
 
 Currently, this project is maintained by:
-- [Benoît H. Dicaire] ([@BHDicaire](https://github.com/bhdicaire))
+- [Benoît H. Dicaire]([@BHDicaire](https://github.com/bhdicaire))
 
 ## Decision-Making
 - Day-to-day changes (bug fixes, minor improvements) are decided by the maintainer and merged after review
@@ -20,11 +19,7 @@ Currently, this project is maintained by:
 This project is currently maintained by a single individual. If the project grows and consistent contributors emerge, they may be invited to join as co-maintainers.
 
 ## Conflict Resolution
-We encourage respectful, constructive discussions.  
-If disagreements arise and consensus cannot be reached, the maintainer will make the final decision.
-
-## Transparency
-All discussions and decisions happen publicly on GitHub through Issues, and Pull Requests.
+We encourage respectful, constructive discussions. Most discussions and decisions happen publicly on GitHub through Issues, and Pull Requests. If disagreements arise and consensus cannot be reached, the maintainer will make the final decision.
 
 ## Amendments
 This governance model may be updated over time. Changes will be proposed in a pull request and discussed openly before adoption.
