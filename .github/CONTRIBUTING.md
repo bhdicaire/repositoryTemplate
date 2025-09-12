@@ -20,24 +20,22 @@ Please review our [code of conduct](.github/CODE_OF_CONDUCT.md) before contribut
 
 ## Reporting Bugs & Issues :bug:
 
-:warning: Security issues must not be reported publicly, please follow our [security](SECURITY.md) guidelines.
+:warning: Security issues must not be reported publicly, please follow our [security](.github/SECURITY.md) guidelines.
 
-If you find a bug, open a new [issue](https://github.com/bhdicaire/repositoryTemplate/issues/new/choose).
-
-A great bug report includes:
+If you find a bug, open a new [issue](https://github.com/bhdicaire/repositoryTemplate/issues/new/choose). A great bug report includes:
  * A quick summary or background information
- * Steps to reproduce (be specific and include sample code if possible)
+ * Steps to reproduce, be specific and include sample code if possible
  * What you expected to happen
  * What actually happened
  * Any notes such as the possible causes, related issues, or attempted fixes
 
 Before submitting:
- * Check our [issue backlog](https://github.com/hdicaire/repositoryTemplate/issues) to ensure it hasn't already been reported
+ * Check our [issue backlog](../../../issues) to ensure it hasn't already been reported
  * If it has, please add a comment with extra context instead of opening a new issue
 
 ## Submitting Pull Requests :rocket:
 
-We follow [Github Flow](https://guides.github.com/introduction/flow/index.html), pull requests (PRs) are the best way to propose changes.
+We follow [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow), pull requests (PRs) are the best way to propose changes.
 
 Here's the process:  
 1. Fork the repo and create your branch from `main` 
@@ -48,7 +46,7 @@ Here's the process:
 
 By submitting a PR, you agree that your work will be licensed under this project's [License](LICENSE).
 
-**Tips for Successful Contributions**
+**Tips for Successful Contributions** :bulb:
  * Keep PRs focused and small, it's easier to review and merge
  * Write clear commit messages (e.g., fix: resolve null pointer issue in auth flow)
  * Be respectful and collaborative during code reviews
