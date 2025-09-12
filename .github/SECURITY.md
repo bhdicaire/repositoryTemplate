@@ -1,3 +1,4 @@
 # **Reporting Security Issues**
 
-Do not post security issues to our public repositories. Security issues must be reported by email to [code@Dicaire.com](mailto:code@Dicaire.com)
+:warning: Security issues must not be posted to our public repositories, please report by email to
+[code@Dicaire.com](mailto:code@Dicaire.com).
