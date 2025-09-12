@@ -11,18 +11,10 @@ Please remember: this project is maintained by people volunteering their time, o
 
 ### Help us, help you :bulb:
 
-he more detail you provide, the easier it is for us to help:  
-- Clarify whether your question is about a **concept** you don’t understand or a **problem** you’ve encountered.  
+The more detail you provide, the easier it is for us to help:  
+- Clarify whether your question is about a **concept** you don’t understand or a **problem** you’ve encountered
 - Describe the **steps you took** and what you observed
-- Avoid asking about your workaround instead of the actual problem (see the [XY Problem](https://mywiki.wooledge.org/XyProblem)).  
+- Avoid asking about your workaround instead of the actual problem (see the [XY Problem](https://mywiki.wooledge.org/XyProblem))
 - Try the [rubber duck debugging method](https://rubberduckdebugging.com) before opening an [issue](../../../issues/new/choose)
 
-The more time you put into asking your question, the better we can help you
- * Is it a concept you’re not understanding?
- * What problem are you encountering and what steps have you taken to try and fix it?
- * Avoid questions about your attempted solution rather than your actual problem (e.g., [XY problem](https://mywiki.wooledge.org/XyProblem))
- * Have you tried the [rubber duck debugging method](https://rubberduckdebugging.com)?
-
 ### Thanks :raised_hands:
-
-Every thoughtful report, question, or contribution helps make this project better. We appreciate your effort and patience!
