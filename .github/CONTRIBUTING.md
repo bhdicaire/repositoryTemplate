@@ -12,28 +12,28 @@ We aim to make contributing as easy and transparent as possible. Whether it's:
 We use GitHub to host code, track issues/ feature requests, and review pull requests.
 
 :point_right: First-time contributor? Don't worry, we'll guide you through it. 
-If you're new to GitHub, start by creating an account using this [guide](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
+If you're new, start by creating an [account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
 
 ## Code of Conduct
 
 We are committed to fostering a safe, inclusive, and harassment-free community.
-Please review our [Code of Conduct](.github/CODE_OF_CONDUCT.md) before contributing.
+Please review our [code of conduct](.github/CODE_OF_CONDUCT.md) before contributing.
 
-# Reporting Bugs & Issues :bug:
+## Reporting Bugs & Issues
 
-:warning: Security issues must not be reported publicly! Instead, please follow our [security](SECURITY.md) guidelines.
+:warning: Security issues must not be reported publicly, please follow our [security](SECURITY.md) guidelines.
 
-If you find a bug, open a new [issue](https://github.com/bhdicaire/repositoryTemplate/issues/new/choose) on GitHub.
+If you find a :bug:, open a new [issue](https://github.com/bhdicaire/repositoryTemplate/issues/new/choose).
 
 A great bug report includes:
  * A quick summary or background
  * Steps to reproduce (be specific and include sample code if possible)
  * What you expected to happen
  * What actually happened
- * Any additional notes such as the possible causes, related issues, or attempted fixes
+ * Any notes such as the possible causes, related issues, or attempted fixes
 
 Before submitting:
- * Check our [issue backlog](https://github.com/hdicaire/repositoryTemplate/issues) to ensure it hasn’t already been reported
+ * Check our [issue backlog](https://github.com/hdicaire/repositoryTemplate/issues) to ensure it hasn't already been reported
  * If it has, please add a comment with extra context instead of opening a new issue
 
 ## Submitting Pull Requests :rocket:
@@ -41,7 +41,7 @@ Before submitting:
 We follow [Github Flow](https://guides.github.com/introduction/flow/index.html), pull requests (PRs) are the best way to propose changes.
 
 Here's the process:  
-1. **Fork** the repo and create your branch from `main` 
+1. Fork the repo and create your branch from `main` 
 2. If you've added code, include tests when possible
 3. If you've changed APIs, update relevant documentation
 4. Run the full test suite to ensure everything passes
