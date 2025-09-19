@@ -6,12 +6,15 @@ vendor/
 var/
 .tmp/
 .venv/
+temp/
 
 ##### Files #####
 Thumbs.db
 .DS_Store
 ignore.*
 *.ignore.*
+package-lock.json
+.idea
 
 # Environment variables and secret keys
 .env

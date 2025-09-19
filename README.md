@@ -10,60 +10,40 @@ Quick start your projects with a base layer and a structure. [Click to use this 
 ## 🌲 Project tree
 ```text
 
+.
+├── .dockerignore
+├── .editorconfig
+├── .gitignore
+├── CHANGELOG.md
+├── LICENSE
+├── README.md
+├── commitlint.config.js
+├── package-lock.json
+├── package.json
 ├── .github
 │   ├── CODEOWNERS
 │   ├── CODE_OF_CONDUCT.md
 │   ├── CONTRIBUTING.md
 │   ├── GOVERNANCE.md
-│   ├── ISSUE_TEMPLATE
-│   │   ├── bug.yml
-│   │   ├── config.yml
-│   │   ├── docs.yml
-│   │   ├── feature-request.yml
-│   │   └── question-support.yml
 │   ├── LICENSE.md
 │   ├── MAINTAINERS.md
 │   ├── SECURITY.md
 │   ├── SUPPORT.md
-│   └── pull_request_template.md
-├── .gitignore
+│   ├── pull_request_template.md
+│   └── ISSUE_TEMPLATE
+│       ├── bug.yml
+│       ├── config.yml
+│       ├── docs.yml
+│       ├── feature-request.yml
+│       └── question-support.yml
 ├── .husky
 │   └── commit-msg
-├── README.md
-├── commitlint.config.js
-├── docs
-│   ├── badges.md
-│   ├── emojis.md
-│   └── header.png
-├── package-lock.json
-└── package.json
-.
-├── CHANGELOG.md
-├── .github
-│   ├── CODE_OF_CONDUCT.md
-│   ├── CODEOWNERS
-│   ├── config.yml
-│   ├── CONTRIBUTING.md
-│   ├── FUNDING.yml
-│   ├── issue_label_bot.yaml
-│   ├── ISSUE_TEMPLATE
-│   │   ├── 1-bug-report.md
-│   │   ├── 2-failing-test.md
-│   │   ├── 3-docs-bug.md
-│   │   ├── 4-feature-request.md
-│   │   ├── 5-enhancement-request.md
-│   │   ├── 6-security-report.md
-│   │   ├── 7-question-support.md
-│   │   └── config.yml
-│   ├── ISSUE_TEMPLATE.md
-│   ├── pull_request_template.md
-│   ├── SECURITY.md
-│   ├── settings.yml
-│   └── SUPPORT.md
-├── .gitignore
-└── README.md
+└── docs
+    ├── badges.md
+    ├── emojis.md
+    ├── header.png
+    └── socialMedia.png
 
-2 directories, 22 files
 ```
 ## :notebook_with_decorative_cover: Ingredients
 
@@ -85,7 +65,7 @@ Quick start your projects with a base layer and a structure. [Click to use this 
    4. [Question or support Request](./github/ISSUE_TEMPLATE/question-support.yml)
    5. [Report a security vulnerability](./github/SECURITY.md) 
 
- * [Security](./github/SECURITY.md")
+ * [Security](./github/SECURITY.md"): don't forget to enable [pertinent features](https://docs.github.com/en/code-security/getting-started/github-security-features) for your repository.
  * [Support](./github/SUPPORT.md") 
 </details>
 
@@ -98,12 +78,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en) and thi
 </details>
 
 <details>
-<summary>Configuration settings aka preferences</summary>
-.editorconfig
+<summary>Preferences (e.g, configuration settings)</summary>
+
+ * [.dockerignore](.dockerignore): opionated Preferences
+ * [.editorconfig](.editorconfig): opionated Preferences
+ * [.gitignore](.gitignore): 
+ * [commitlint.config.js](.commitlint.config.js)
+ * [package.json](package.json])
+ * [husky/commit-msg](husky/commit-msg]): 
+
 linting
 All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/markdownlint
 </details>
-
 <details>
 <summary>Social media preview image</summary>
 
@@ -122,6 +108,7 @@ Your header image should be 1200 × 300 px at 72 DPI.
 Refer to [badges](docs/badges.md) to select items. I [documented](docs/emojis.md) the emojis supported by GitHub.
 </details>
 
+I'm using 'tree -a --filesfirst' to update the project tree.
 
 
 <details>
