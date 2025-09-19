@@ -5,7 +5,7 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/bhdicaire/repositoryTemplate?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=C25100)
 ![GitHub licence](https://img.shields.io/github/license/bhdicaire/repositoryTemplate?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=C25100)
 
-Quick start your projects with a base layer and a structure. [Click to use this template](https://github.com/bhdicaire/repositoryTemplate/generate) and create your new repository with batteries included.
+This repository is a _template_ you can [use](https://github.com/bhdicaire/repositoryTemplate/generate) to start new projects with a consistent structure and batteries included.
 
 ## 🌲 Project tree
 ```text
@@ -48,15 +48,17 @@ Quick start your projects with a base layer and a structure. [Click to use this 
 ## :notebook_with_decorative_cover: Ingredients
 
 <details>
-<summary>Code of conducts, contributing, and governance</summary>
+<summary>Standard community files</summary>
 
  * [Code of conducts](.github/CODE_OF_CONDUCT.md) adapted from the [Contributor Covenant, version 3.0](https://www.contributor-covenant.org/version/3/0/) to ensure that no manual changes are required per project
  * [Contributing](.github/CONTRIBUTING.md): reporting bugs & issues, and submitting pull requests based on [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow)
  * [Governance](.github/GOVERNANCE.md): how decisions are made and how contributions are managed
  * [Maintainers](.github/MAINTAINERS.md): lists the maintainers of the project and how to contact them 
+ * [Security](./github/SECURITY.md"): don't forget to enable [pertinent features](https://docs.github.com/en/code-security/getting-started/github-security-features) for your repository.
+ * [Support](./github/SUPPORT.md") 
 </details>
 <details>
-<summary>Issues, security, and support</summary>
+<summary>GitHub issue and PR templates for bugs, features, docs, and questions</summary>
 
  * Issues:
    1. [Bug](./github/ISSUE_TEMPLATE/bug.yml)
@@ -65,12 +67,11 @@ Quick start your projects with a base layer and a structure. [Click to use this 
    4. [Question or support Request](./github/ISSUE_TEMPLATE/question-support.yml)
    5. [Report a security vulnerability](./github/SECURITY.md) 
 
- * [Security](./github/SECURITY.md"): don't forget to enable [pertinent features](https://docs.github.com/en/code-security/getting-started/github-security-features) for your repository.
- * [Support](./github/SUPPORT.md") 
+
 </details>
 
 <details>
-<summary>Change log</summary>
+<summary>Semantic Versioning with changelog guidelines</summary>
 
 All notable changes to the repository will be documented in [CHANGELOG.md](CHANGELOG.md).
 
@@ -78,7 +79,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en) and thi
 </details>
 
 <details>
-<summary>Preferences (e.g, configuration settings)</summary>
+<summary>Preconfigured opinionated settings</summary>
 
  * [.dockerignore](.dockerignore): opionated Preferences
  * [.editorconfig](.editorconfig): opionated Preferences
