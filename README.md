@@ -106,9 +106,10 @@ Upload a [social media image](docs/socialMedia.png) to [customize](https://docs.
 Your header image should be 1200 × 300 px at 72 DPI.
 
 Refer to [badges](docs/badges.md) to select items. I [documented](docs/emojis.md) the emojis supported by GitHub.
-</details>
 
 I'm using 'tree -a --filesfirst' to update the project tree.
+</details>
+
 
 
 <details>

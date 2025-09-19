@@ -1,0 +1,33 @@
+# .github/workflows/sync-labels.yml
+name: Sync labels
+
+on:
+  push:
+    branches: [ "main", "master" ]
+    paths:
+      - ".github/labels.yml"
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 6 * * 1"  # Every Monday 06:00 UTC
+
+permissions:
+  contents: read
+  issues: write
+  metadata: read
+  # Required to manage labels:
+  administration: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync labels
+        uses: crazy-max/ghaction-github-labeler@v5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          config-path: .github/labels.yml
+          skip-delete: false   # set to true if you DON'T want to delete undeclared labels
+          dry-run: false

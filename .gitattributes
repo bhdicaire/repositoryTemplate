@@ -1,0 +1,78 @@
+# -----------------------------------------------------------------------------
+# Core normalization
+# -----------------------------------------------------------------------------
+
+# Normalize all text files to LF (macOS default is LF, so this keeps repos clean)
+* text=auto eol=lf
+
+# -----------------------------------------------------------------------------
+# OS-generated / metadata files
+# -----------------------------------------------------------------------------
+
+# macOS Finder metadata (should be ignored in .gitignore, but mark as binary anyway)
+.DS_Store binary
+
+# -----------------------------------------------------------------------------
+# Common text formats
+# -----------------------------------------------------------------------------
+
+*.md     text diff=markdown
+*.txt    text
+*.yml    text
+*.yaml   text
+*.json   text
+*.xml    text
+*.html   text
+*.css    text
+*.scss   text
+*.js     text
+*.ts     text
+*.tsx    text
+*.py     text
+*.sh     text eol=lf
+*.bat    text eol=crlf  # for Windows users running scripts
+
+# -----------------------------------------------------------------------------
+# Documentation and office formats
+# -----------------------------------------------------------------------------
+
+*.docx   diff=astextplain
+*.DOCX   diff=astextplain
+*.odt    diff=astextplain
+*.rtf    diff=astextplain
+*.pdf    binary
+
+# -----------------------------------------------------------------------------
+# Data & configuration
+# -----------------------------------------------------------------------------
+
+*.csv    text
+*.tsv    text
+*.ini    text
+*.conf   text
+*.env    text
+
+# -----------------------------------------------------------------------------
+# Binary formats
+# -----------------------------------------------------------------------------
+
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
+*.zip    binary
+*.tar    binary
+*.gz     binary
+*.tgz    binary
+*.bz2    binary
+*.7z     binary
+*.mp4    binary
+*.mov    binary
+*.avi    binary
+
+# -----------------------------------------------------------------------------
+# Git LFS (uncomment if you use LFS for large assets)
+# -----------------------------------------------------------------------------
+# *.psd filter=lfs diff=lfs merge=lfs -text
+# *.bin filter=lfs diff=lfs merge=lfs -text
