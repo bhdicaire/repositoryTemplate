@@ -76,7 +76,7 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
   - [ ] Update the `.github/MAINTAINERS.md`
   - [ ] Design and replace the images:
 
-details>
+<details>
 <summary>README.md</summary>
 
 Your header image should be 1200 × 300 px at 72 DPI.
@@ -90,7 +90,7 @@ All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/mar
 Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
 </details>
 
-    <details>
+<details>
 <summary>Social media preview image</summary>
 
 Your social media image should be 640 × 320 px at 72 DPI.
