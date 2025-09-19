@@ -11,12 +11,7 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
  
 ## :notebook_with_decorative_cover: Ingredients
 
-<details>
-<summary>README.md</summary>
-badge
-emoji
 
-</details>
 <details>
 <summary>Code of conducts, contributing, and governance</summary>
 
@@ -27,6 +22,7 @@ emoji
 </details>
 <details>
 <summary>Issues, security, and support</summary>
+
 **Issues**
  1. [Bug](./github/ISSUE_TEMPLATE/bug.yml)
  2. [Documentation including README.md](./github/ISSUE_TEMPLATE/docs.yml)
@@ -37,6 +33,7 @@ emoji
 
 <details>
 <summary>Change log</summary>
+
 All notable changes to the repository will be documented in [CHANGELOG.md](CHANGELOG.md).
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en) and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -51,19 +48,16 @@ All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/mar
 
 <details>
 <summary>social media preview</summary>
-customize the social media preview of the repository
-On GitHub, navigate to the main page of the repository.
-https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview
 
-Under your repository name, click  Settings. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
-
-Screenshot of a repository header showing the tabs. The "Settings" tab is highlighted by a dark orange outline.
-Under "Social preview", click Edit.
-
-To add a new image, click Upload an image....
+Upload a [social media image](docs/socialMedia.png) to [customize](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview) the social media preview of the repository. 
 </details>
 
+<details>
+<summary>README.md</summary>
+badge
+emoji
 
+</details>
 
 
 
