@@ -107,6 +107,8 @@ All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/mar
 <details>
 <summary>Social media preview image</summary>
 
+Your social media image should be 640 × 320 px at 72 DPI.
+
 Upload a [social media image](docs/socialMedia.png) to [customize](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview) the social media preview of the repository. 
 
 ![social media image](docs/socialMedia.png "social media image")
@@ -114,10 +116,10 @@ Upload a [social media image](docs/socialMedia.png) to [customize](https://docs.
 
 <details>
 <summary>README.md</summary>
-badge
-emoji
 
-Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
+Your header image should be 1200 × 300 px at 72 DPI.
+
+Refer to [badges](docs/badges.md) to select items. I [documented](docs/emojis.md) the emojis supported by GitHub.
 </details>
 
 
