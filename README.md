@@ -19,6 +19,7 @@ emoji
 </details>
 <details>
 <summary>Code of conducts, contributing, and governance</summary>
+
  * [Code of conducts](.github/CODE_OF_CONDUCT.md) adapted from the [Contributor Covenant, version 3.0](https://www.contributor-covenant.org/version/3/0/) to ensure that no manual changes are required.
 
  * [Contributing](.github/CONTRIUBUTING.md) including reporting Bugs & Issues, and submitting Pull Requests based on [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow)
