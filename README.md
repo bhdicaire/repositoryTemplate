@@ -70,10 +70,11 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
 
 ## How to use
 
-  1. Click [use](https://github.com/bhdicaire/repositoryTemplate/generate) this template to create a new repository.
+  1. Click to [use](https://github.com/bhdicaire/repositoryTemplate/generate) this template to create a new repository.
 - [ ] Replace the placeholders to make sure you customize everything needed
   - [ ] Change the project name and description
   - [ ] Update `.github/MAINTAINERS.md`
+  - [ ] Update `.github/SECURITY.md`
   - [ ] Design and replace the images:
 
       <details>
@@ -103,8 +104,8 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
   - [ ] Update the README.md
     - [ ] Select [badges](docs/badges.md)
     - [ ] Select [emojis](docs/emojis.md) supported by GitHub
-    - [ ] Update the project tree, I'm using 'tree -a --filesfirst'
-  - [ ] Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) if you want to create your template
+    - [ ] Update the project tree, I'm using `tree -a --filesfirst`
+  - [ ] Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), if you want to create your own template
   
 
 ## 🌲 Project tree
