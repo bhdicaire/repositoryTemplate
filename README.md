@@ -71,18 +71,22 @@ Your header image should be 1200 × 300 px at 72 DPI.
 Refer to [badges](docs/badges.md) to select items. I [documented](docs/emojis.md) the emojis supported by GitHub.
 
 I'm using 'tree -a --filesfirst' to update the project tree.
-</details>
-
-
-
-<details>
-<summary>⚠️ Required manual revision ⚠️ </summary>
-There will be files that will need *manual revision*:
 
 All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/markdownlint
 
 Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
 </details>
+
+## How to use
+
+  1. Click [use](https://github.com/bhdicaire/repositoryTemplate/generate) this template to create a new repository.
+  2. Replace the placeholders to make sure you customize everything needed
+      [ ] project name and description
+      [ ] [maintainers](.github/MAINTAINERS.md)
+      [ ] Design and replace the header and social preview images
+      [ ] Update the README.md
+      [ ] Update the README.md
+
 
 ## 🌲 Project tree
 ```text
