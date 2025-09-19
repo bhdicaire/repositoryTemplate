@@ -76,7 +76,7 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
   - [ ] Update the `.github/MAINTAINERS.md`
   - [ ] Design and replace the images:
 
-<details>
+      <details>
 <summary>README.md</summary>
 
 Your header image should be 1200 × 300 px at 72 DPI.
