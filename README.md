@@ -23,12 +23,15 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
 <details>
 <summary>Issues, security, and support</summary>
 
-**Issues**
- 1. [Bug](./github/ISSUE_TEMPLATE/bug.yml)
- 2. [Documentation including README.md](./github/ISSUE_TEMPLATE/docs.yml)
- 3. [Feature request](./github/ISSUE_TEMPLATE/docs.yml)
- 4. [Question or support Request](./github/ISSUE_TEMPLATE/question-support.yml)
- 5. [Report a security vulnerability](./github/SECURITY.md) 
+ * Issues:
+   1. [Bug](./github/ISSUE_TEMPLATE/bug.yml)
+   2. [Documentation including README.md](./github/ISSUE_TEMPLATE/docs.yml)
+   3. [Feature request](./github/ISSUE_TEMPLATE/docs.yml)
+   4. [Question or support Request](./github/ISSUE_TEMPLATE/question-support.yml)
+   5. [Report a security vulnerability](./github/SECURITY.md) 
+
+ * [Security](./github/SECURITY.md")
+ * [Support](./github/SUPPORT.md") 
 </details>
 
 <details>
