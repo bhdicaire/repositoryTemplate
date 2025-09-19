@@ -1,26 +1,25 @@
 ![Logo](docs/header.png "Logo")
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-blue.svg)](LICENSE) ![Last Updated](https://img.shields.io/badge/updated-August%202025-brightgreen.svg)
+![Last Updated](https://img.shields.io/badge/updated-August%202025-brightgreen.svg)
 
-![GitHub last commit](https://img.shields.io/github/stars/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
-![GitHub forks](https://img.shields.io/github/forks/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
-![GitHub licence](https://img.shields.io/github/license/bhdicaire/visioStencils?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
-![Visio stencils](https://img.shields.io/badge/visio_shapes-3,500-186ADE)
-![Vision templates](https://img.shields.io/badge/visio_templates-80-186ADE)
-![Visio documents](https://img.shields.io/badge/visio_documents-906-186ADE)
+![GitHub Stars](https://img.shields.io/github/stars/bhdicaire/repositoryTemplate?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
+![GitHub forks](https://img.shields.io/github/forks/bhdicaire/repositoryTemplate?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
+![GitHub licence](https://img.shields.io/github/license/bhdicaire/repositoryTemplate?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE)
+![GitHub Stars](https://img.shields.io/github/last-commit/bhdicaire/repositoryTemplate?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=186ADE alt="contributors")
 
-[![GitHub stars](https://img.shields.io/github/stars/bhdicaire/repositoryTemplate?style=flat)](https://github.com/bhdicaire/repositoryTemplate/stargazers)
-
-Quick start your projects with a base layer and a structure. [Click to use this template](https://github.com/bhdicaire/repositoryTemplate/generate) and create your new repository with batteries included.
-
-<!-- Badges -->
-<p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
+
+
+Quick start your projects with a base layer and a structure. [Click to use this template](https://github.com/bhdicaire/repositoryTemplate/generate) and create your new repository with batteries included.
+
+<!-- Badges -->
+<p>
+  
   <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
     <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
   </a>
