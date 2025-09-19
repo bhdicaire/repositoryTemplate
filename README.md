@@ -36,6 +36,13 @@ emoji
 </details>
 
 <details>
+<summary>Change log</summary>
+All notable changes to the repository will be documented in [CHANGELOG.md](CHANGELOG.md).
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en) and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+</details>
+
+<details>
 <summary>Configuration settings aka preferences</summary>
 .editorconfig
 linting
