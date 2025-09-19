@@ -20,11 +20,10 @@ emoji
 <details>
 <summary>Code of conducts, contributing, and governance</summary>
 
- * [Code of conducts](.github/CODE_OF_CONDUCT.md) adapted from the [Contributor Covenant, version 3.0](https://www.contributor-covenant.org/version/3/0/) to ensure that no manual changes are required.
-
- * [Contributing](.github/CONTRIUBUTING.md) including reporting Bugs & Issues, and submitting Pull Requests based on [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow)
- * [Governance](.github/GOVERMNANCE.md)
- * [Maintainers](.github/MAINTAINERS.md) 
+ * [Code of conducts](.github/CODE_OF_CONDUCT.md) adapted from the [Contributor Covenant, version 3.0](https://www.contributor-covenant.org/version/3/0/) to ensure that no manual changes are required per project
+ * [Contributing](.github/CONTRIBUTING.md): reporting bugs & issues, and submitting pull requests based on [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow)
+ * [Governance](.github/GOVERNANCE.md): how decisions are made and how contributions are managed
+ * [Maintainers](.github/MAINTAINERS.md): lists the maintainers of the project and how to contact them 
 </details>
 <details>
 <summary>Issues, security, and support</summary>
