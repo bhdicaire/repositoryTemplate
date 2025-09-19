@@ -75,8 +75,23 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
   - [ ] Change the project name and description
   - [ ] Update the `.github/MAINTAINERS.md`
   - [ ] Design and replace the images:
+
+details>
+<summary>README.md</summary>
+
+Your header image should be 1200 × 300 px at 72 DPI.
+
+Refer to [badges](docs/badges.md) to select items. I [documented](docs/emojis.md) the emojis supported by GitHub.
+
+I'm using 'tree -a --filesfirst' to update the project tree.
+
+All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/markdownlint
+
+Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
+</details>
+
     <details>
-    <summary>Social media preview image</summary>
+<summary>Social media preview image</summary>
 
 Your social media image should be 640 × 320 px at 72 DPI.
 
