@@ -27,6 +27,13 @@ Quick start your projects with a base layer and a structure. [Click to use this 
 </p>
 
 
+[![GitHub stars](https://img.shields.io/github/stars/cresset-template/cresset?style=flat)](https://github.com/cresset-template/cresset/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/cresset-template/cresset?style=flat)](https://github.com/cresset-template/cresset/issues)
+[![GitHub forks](https://img.shields.io/github/forks/cresset-template/cresset?style=flat)](https://github.com/cresset-template/cresset/network)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
+[![GitHub license](https://img.shields.io/github/license/cresset-template/cresset?style=flat)](https://github.com/cresset-template/cresset/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7939089.svg)](https://doi.org/10.5281/zenodo.7939089)
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcresset-template%2Fcresset)](https://twitter.com/intent/tweet?text=Awesome_Project!!!:&url=https%3A%2F%2Fgithub.com%2Fcresset-template%2Fcresset)
 Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
  
 ## :notebook_with_decorative_cover: Ingredients
@@ -39,9 +46,11 @@ emoji
 </details>
 <details>
 <summary>Code of conducts, contributing, and governance</summary>
-a
+* [Code of conducts](.github/CODE_OF_CONDUCT.md) adapted from the [Contributor Covenant, version 3.0](https://www.contributor-covenant.org/version/3/0/) to ensure that no manual changes are required.
+* [Contributing](.github/CONTRIUBUTING.md) including reporting Bugs & Issues, and submitting Pull Requests based on [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow)
+* [Governance](.github/GOVERMNANCE.md)
+* [Maintainers](.github/MAINTAINERS.md) 
 </details>
-
 <details>
 <summary>Issues, security, and support</summary>
 a
@@ -148,3 +157,6 @@ All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/mar
 
 2 directories, 22 files
 ```
+
+repositoryTemplate by Benoît H. Dicaire is shared with an [MIT license](.github/LICENSE).
+Suggestions and improvements are welcome!
