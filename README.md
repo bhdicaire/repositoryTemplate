@@ -7,44 +7,6 @@
 
 This repository is a _template_ you can [use](https://github.com/bhdicaire/repositoryTemplate/generate) to start new projects with a consistent structure and batteries included.
 
-## 🌲 Project tree
-```text
-
-.
-├── .dockerignore
-├── .editorconfig
-├── .gitignore
-├── CHANGELOG.md
-├── LICENSE
-├── README.md
-├── commitlint.config.js
-├── package-lock.json
-├── package.json
-├── .github
-│   ├── CODEOWNERS
-│   ├── CODE_OF_CONDUCT.md
-│   ├── CONTRIBUTING.md
-│   ├── GOVERNANCE.md
-│   ├── LICENSE.md
-│   ├── MAINTAINERS.md
-│   ├── SECURITY.md
-│   ├── SUPPORT.md
-│   ├── pull_request_template.md
-│   └── ISSUE_TEMPLATE
-│       ├── bug.yml
-│       ├── config.yml
-│       ├── docs.yml
-│       ├── feature-request.yml
-│       └── question-support.yml
-├── .husky
-│   └── commit-msg
-└── docs
-    ├── badges.md
-    ├── emojis.md
-    ├── header.png
-    └── socialMedia.png
-
-```
 ## :notebook_with_decorative_cover: Ingredients
 
 <details>
@@ -122,7 +84,44 @@ All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/mar
 Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
 </details>
 
-> 
+## 🌲 Project tree
+```text
+
+.
+├── .dockerignore
+├── .editorconfig
+├── .gitignore
+├── CHANGELOG.md
+├── LICENSE
+├── README.md
+├── commitlint.config.js
+├── package-lock.json
+├── package.json
+├── .github
+│   ├── CODEOWNERS
+│   ├── CODE_OF_CONDUCT.md
+│   ├── CONTRIBUTING.md
+│   ├── GOVERNANCE.md
+│   ├── LICENSE.md
+│   ├── MAINTAINERS.md
+│   ├── SECURITY.md
+│   ├── SUPPORT.md
+│   ├── pull_request_template.md
+│   └── ISSUE_TEMPLATE
+│       ├── bug.yml
+│       ├── config.yml
+│       ├── docs.yml
+│       ├── feature-request.yml
+│       └── question-support.yml
+├── .husky
+│   └── commit-msg
+└── docs
+    ├── badges.md
+    ├── emojis.md
+    ├── header.png
+    └── socialMedia.png
+
+```
 
 repositoryTemplate by Benoît H. Dicaire is shared with an [MIT license](.github/LICENSE).
 Suggestions and improvements are welcome!
