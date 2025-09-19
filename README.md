@@ -80,8 +80,7 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
 ## How to use
 
   1. Click [use](https://github.com/bhdicaire/repositoryTemplate/generate) this template to create a new repository.
-  2. Replace the placeholders to make sure you customize everything needed
-
+- [ ] Replace the placeholders to make sure you customize everything needed
   - [ ] project name and description
   - [ ] [maintainers](.github/MAINTAINERS.md)
   - [ ] Design and replace the header and social preview images
