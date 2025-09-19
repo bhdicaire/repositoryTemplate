@@ -2,11 +2,60 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-blue.svg)](LICENSE) ![Last Updated](https://img.shields.io/badge/updated-August%202025-brightgreen.svg)
 
-Quick start your projects with a base layer and a README structure. [Click use this template](https://github.com/bhdicaire/repositoryTemplate/generate) and create your new repository.
+Quick start your projects with a base layer and a structure. [Click to use this template](https://github.com/bhdicaire/repositoryTemplate/generate) and create your new repository with batteries included.
 
- * Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
+<!-- Badges -->
+<p>
+  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+  </a>
+  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
+    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  </a>
+  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
+    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  </a>
+  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
+    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  </a>
+  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  </a>
+</p>
+
+
+Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
  
+## :notebook_with_decorative_cover: Ingredients
 
+<details>
+<summary>README.md</summary>
+badge
+emoji
+
+</details>
+<details>
+<summary>Code of conducts, contributing, and governance</summary>
+a
+</details>
+
+<details>
+<summary>Issues, security, and support</summary>
+a
+</details>
+
+<details>
+<summary>Configuration settings aka preferences</summary>
+.editorconfig
+linting
+All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/markdownlint
+</details>
+
+<details>
+<summary>social media preview</summary>
 customize the social media preview of the repository
 On GitHub, navigate to the main page of the repository.
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview
@@ -17,6 +66,11 @@ Screenshot of a repository header showing the tabs. The "Settings" tab is highli
 Under "Social preview", click Edit.
 
 To add a new image, click Upload an image....
+</details>
+
+
+
+
 
 <details>
 <summary>There will be files that will need *manual revision* ⚠️</summary>
@@ -31,12 +85,12 @@ All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/mar
 <details>
 <summary>Linting</summary>
 
-All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/markdownlint
+
 
 </details>
 
 
-🌲 Project tree
+## 🌲 Project tree
 ```text
 
 ├── .github
