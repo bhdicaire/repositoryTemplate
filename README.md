@@ -11,7 +11,6 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
  
 ## :notebook_with_decorative_cover: Ingredients
 
-
 <details>
 <summary>Code of conducts, contributing, and governance</summary>
 
@@ -53,6 +52,8 @@ All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/mar
 <summary>social media preview</summary>
 
 Upload a [social media image](docs/socialMedia.png) to [customize](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview) the social media preview of the repository. 
+
+![social media image](docs/socialMedia.png "social media image")
 </details>
 
 <details>
