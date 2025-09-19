@@ -53,15 +53,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en) and thi
 linting
 All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/markdownlint
 </details>
-<details>
-<summary>Social media preview image</summary>
-
-Your social media image should be 640 × 320 px at 72 DPI.
-
-Upload a [social media image](docs/socialMedia.png) to [customize](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview) the social media preview of the repository. 
-
-![social media image](docs/socialMedia.png "social media image")
-</details>
 
 <details>
 <summary>README.md</summary>
@@ -83,7 +74,17 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
 - [ ] Replace the placeholders to make sure you customize everything needed
   - [ ] Change the project name and description
   - [ ] Update the `.github/MAINTAINERS.md`
-  - [ ] Design and replace the header and social preview images
+  - [ ] Design and replace the images:
+    <details>
+    <summary>Social media preview image</summary>
+
+Your social media image should be 640 × 320 px at 72 DPI.
+
+Upload a [social media image](docs/socialMedia.png) to [customize](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview) the social media preview of the repository. 
+
+![social media image](docs/socialMedia.png "social media image")
+    </details>
+
   - [ ] Update the README.md
   - [ ] Update the README.md
 
