@@ -1,63 +1,96 @@
-<h1 align="center">
-  <br>
-  [Project's Logo]
-  <br>
-  [Project's name]
-  <br>
-</h1>
+![Logo](docs/header.png "Logo")
 
-<h4 align="center">[Project's description]</h4>
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-blue.svg)](LICENSE) ![Last Updated](https://img.shields.io/badge/updated-August%202025-brightgreen.svg)
 
-<p align="center">
-  [Project's badges]
-</p>
-![GitHub last commit](https://img.shields.io/github/last-commit/bhdicaire/repositoryTemplate)
-![GitHub License](https://img.shields.io/github/license/bhdicaire/repositoryTemplate)
+Quick start your projects with a base layer and a README structure. [Click use this template](https://github.com/bhdicaire/repositoryTemplate/generate) and create your new repository.
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#faq">FAQ</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
-</p>
+ * Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
+ 
 
-![screenshot](screenshots/1.jpg)
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+customize the social media preview of the repository
+On GitHub, navigate to the main page of the repository.
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview
 
-## About
+Under your repository name, click  Settings. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
 
-![Banner](./header.png)
-# My personal GitHub Repository template.
+Screenshot of a repository header showing the tabs. The "Settings" tab is highlighted by a dark orange outline.
+Under "Social preview", click Edit.
 
-This repository is a template to be used when creating a new github repository.
-<!-- Add badges with link to Shields IO -->
-![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+To add a new image, click Upload an image....
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+<details>
+<summary>There will be files that will need *manual revision* ⚠️</summary>
 
-## Install
+All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/markdownlint
+
+</details>
+
+> 
 
 
- [Sections](#sections)
-  - [Title](#title)
-  - [Banner](#banner)
-  - [Badges](#badges)
-  - [Short Description](#short-description)
-  - [Long Description](#long-description)
-  - [Table of Contents](#table-of-contents-1)
-  - [Security](#security)
-  - [Background](#background)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Extra Sections](#extra-sections)
-  - [API](#api)
-  - [Maintainers](#maintainers)
-  - [Thanks](#thanks)
-  - [Contributing](#contributing)
-  - [License](#license)
-- [Definitions](#definitions)
+<details>
+<summary>Linting</summary>
+
+All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/markdownlint
+
+</details>
+
+
+🌲 Project tree
+```text
+
+├── .github
+│   ├── CODEOWNERS
+│   ├── CODE_OF_CONDUCT.md
+│   ├── CONTRIBUTING.md
+│   ├── GOVERNANCE.md
+│   ├── ISSUE_TEMPLATE
+│   │   ├── bug.yml
+│   │   ├── config.yml
+│   │   ├── docs.yml
+│   │   ├── feature-request.yml
+│   │   └── question-support.yml
+│   ├── LICENSE.md
+│   ├── MAINTAINERS.md
+│   ├── SECURITY.md
+│   ├── SUPPORT.md
+│   └── pull_request_template.md
+├── .gitignore
+├── .husky
+│   └── commit-msg
+├── README.md
+├── commitlint.config.js
+├── docs
+│   ├── badges.md
+│   ├── emojis.md
+│   └── header.png
+├── package-lock.json
+└── package.json
+.
+├── CHANGELOG.md
+├── .github
+│   ├── CODE_OF_CONDUCT.md
+│   ├── CODEOWNERS
+│   ├── config.yml
+│   ├── CONTRIBUTING.md
+│   ├── FUNDING.yml
+│   ├── issue_label_bot.yaml
+│   ├── ISSUE_TEMPLATE
+│   │   ├── 1-bug-report.md
+│   │   ├── 2-failing-test.md
+│   │   ├── 3-docs-bug.md
+│   │   ├── 4-feature-request.md
+│   │   ├── 5-enhancement-request.md
+│   │   ├── 6-security-report.md
+│   │   ├── 7-question-support.md
+│   │   └── config.yml
+│   ├── ISSUE_TEMPLATE.md
+│   ├── pull_request_template.md
+│   ├── SECURITY.md
+│   ├── settings.yml
+│   └── SUPPORT.md
+├── .gitignore
+└── README.md
+
+2 directories, 22 files
+```
