@@ -90,6 +90,7 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
 
 
 - [ ] https://github.com/octo-org/octo-repo/issues/740
+  - [ ] https://github.com/octo-org/octo-repo/issues/740
 ## 🌲 Project tree
 ```text
 
