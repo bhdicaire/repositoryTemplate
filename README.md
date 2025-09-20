@@ -68,7 +68,7 @@ All the markdown follows "MarkdownLint" rules. https://github.com/DavidAnson/mar
 Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for more information related to template.
 </details>
 
-## How to use
+## :rocket: Deployment
 
   1. Click to [use](https://github.com/bhdicaire/repositoryTemplate/generate) this template to create a new repository.
 - [ ] Replace the placeholders to make sure you customize everything needed
