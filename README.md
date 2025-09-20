@@ -73,7 +73,8 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
   1. Click to [use](https://github.com/bhdicaire/repositoryTemplate/generate) this template to create a new repository.
 - [ ] Replace the placeholders to make sure you customize everything needed
   - [ ] Change the project name and description
-  - [ ] Update `.github/MAINTAINERS.md`
+  - [ ] Update [:smile:](http://github.com) `.github/MAINTAINERS.md` and `.github/CODEOWNERS.md`
+  
   - [ ] Update `.github/SECURITY.md`
   - [ ] Design and replace the images:
 

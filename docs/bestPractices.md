@@ -9,7 +9,7 @@ https://webstandards.ca.gov/2023/04/19/github-best-practices
 :octocat:
 :paperclip:
 :paperclips
-:
+:sparkles:
 
 1. Create a README file to make it easier for people to understand and navigate your work
 2. Repositories should be limited to the files necessary for building projects
@@ -18,7 +18,9 @@ https://webstandards.ca.gov/2023/04/19/github-best-practices
    * Build artifacts, if you must use Git Large File Storage (Git LFS) 
 3. Keep sensitive files out of your repository with `.gitignore`
 
+###  `.github/MAINTAINERS.md` and `.github/CODEOWNERS.md`
 
+Aha !
 
 
             Binary files like spreadsheets and presentations are better suited to be tracked on portals that understand how to serve and version them properly.
