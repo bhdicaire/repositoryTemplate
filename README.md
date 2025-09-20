@@ -73,7 +73,7 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
   1. Click to [use](https://github.com/bhdicaire/repositoryTemplate/generate) this template to create a new repository.
 - [ ] Replace the placeholders to make sure you customize everything needed
   - [ ] Change the project name and description
-  - [ ] Update [:smile:](http://github.com) `.github/MAINTAINERS.md` and `.github/CODEOWNERS.md`
+  - [ ] Update `.github/MAINTAINERS.md` and `.github/CODEOWNERS.md` [:sparkles:](http://github.com) 
   
   - [ ] Update `.github/SECURITY.md`
   - [ ] Design and replace the images:
@@ -107,8 +107,8 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
     - [ ] Select [emojis](docs/emojis.md) supported by GitHub
     - [ ] Update the project tree, I'm using `tree -a --filesfirst`
   - [ ] Refer to the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), if you want to create your own template
-  
-
+  [:smile:](http://github.com)
+https://github.com/bhdicaire/repositoryTemplate/blob/main/docs/bestPractices.md#githubmaintainersmd-and-githubcodeownersmd
 ## 🌲 Project tree
 ```text
 
