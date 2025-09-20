@@ -1,6 +1,5 @@
 # Best practices
 
-
 https://webstandards.ca.gov/2023/04/19/github-best-practices
 
 ## Best practices for GitHub Repos
@@ -11,6 +10,19 @@ https://webstandards.ca.gov/2023/04/19/github-best-practices
 :paperclip:
 :paperclips
 :
+
+1. Create a README file to make it easier for people to understand and navigate your work
+2. Repositories should be limited to the files necessary for building projects
+ * Avoid committing binary files when you can
+   * Spreadsheets and presentations are better suited to be hosted on portals that understand how to serve and version them properly
+   * Build artifacts, if you must use Git Large File Storage (Git LFS) 
+3. Keep sensitive files out of your repository with `.gitignore`
+
+
+
+
+            Binary files like spreadsheets and presentations are better suited to be tracked on portals that understand how to serve and version them properly.
+
 
 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories
