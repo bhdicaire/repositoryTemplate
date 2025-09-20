@@ -73,10 +73,17 @@ Refer to the [GitHub documentation](https://docs.github.com/en/repositories/crea
   1. Click to [use](https://github.com/bhdicaire/repositoryTemplate/generate) this template to create a new repository.
 - [ ] Replace the placeholders to make sure you customize everything needed
   - [ ] Change the project name and description
-  - [ ] Update `.github/MAINTAINERS.md` and `.github/CODEOWNERS.md` [:sparkles:](http://github.com) 
+  - [ ] Update `.github/MAINTAINERS.md` and `.github/CODEOWNERS.md` [:sparkles:](https://github.com/bhdicaire/repositoryTemplate/blob/main/docs/bestPractices.md#update-githubmaintainersmd-and-githubcodeownersmd) 
   
-  - [ ] Update `.github/SECURITY.md`
-  - [ ] Design and replace the images:
+  - [ ] Update `.github/SECURITY.md` [:sparkles:](https://github.com/bhdicaire/repositoryTemplate/blob/main/docs/bestPractices.md#update-githubsecuritymd) 
+  - [ ] Design and replace the images [:sparkles:](https://github.com/bhdicaire/repositoryTemplate/blob/main/docs/bestPractices.md#design-and-replace-the-images) 
+
+- [ ] Update `README.md` [:link:](https://github.com/bhdicaire/repositoryTemplate/blob/main/docs/bestPractices.md#update-readmemd) 
+
+
+
+
+
 
       <details>
       <summary>Header</summary>

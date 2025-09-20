@@ -30,7 +30,6 @@ Aha !
 
 
 
-
             Binary files like spreadsheets and presentations are better suited to be tracked on portals that understand how to serve and version them properly.
 
 
