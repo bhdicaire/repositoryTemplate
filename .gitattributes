@@ -1,0 +1,146 @@
+# ----------------------------------------------------------------------------------------------------------------------
+# Modified by: BH Dicaire
+# Reference: https://git-scm.com/docs/gitattributes
+# ----------------------------------------------------------------------------------------------------------------------
+
+
+
+# Core normalization for all text files (macOS default is LF)
+# Enforce line endings to LF on checkin and prevents conversion to CRLF when the file is checked out
+# ----------------------------------------------------------------------------------------------------------------------
+* text=auto eol=lf
+
+# Text formats
+# ----------------------------------------------------------------------------------------------------------------------
+
+*.bat     text eol=crlf whitespace=blank-at-eol,-blank-at-eof
+*.css     text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2 diff=css
+*.csv     text eol=lf whitespace=blank-at-eol,-blank-at-eof
+*.htm     text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2 diff=html
+*.html    text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2 diff=html
+*.js      text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+*.json    text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+*.md      text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2 diff=markdown
+*.py      text eol=lf whitespace=blank-at-eol,-blank-at-eof
+*.sass    text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+*.scss    text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2 diff=css
+*.sh      text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+*.svg     text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+*.toml    text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+*.tsv     text eol=lf whitespace=blank-at-eol,-blank-at-eof
+*.txt     text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+*.xml     text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+*.yaml    text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+*.yml     text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+
+# ----------------------------------------------------------------------------------------------------------------------
+#  whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+#   - Treats trailing whitespaces at the end of the line as an error
+#   - Does not treat blank lines added at the end of file as an error
+#   - Does not treat a space character that appears immediately before a tab
+#     character in the initial indent part of the line as an error
+#   - Treats a tab character in the initial indent part of the line as an error
+#   - Sets the tabwidth to 2
+# ----------------------------------------------------------------------------------------------------------------------
+
+
+# ----------------------------------------------------------------------------------------------------------------------
+# The whitespace configuration defines what diff and apply should consider whitespace errors
+#   - Errors are exposed by default in 'git diff --color'
+#   - Validate with 'git diff --check'
+#   - Deny applying with 'git apply --whitespace=error-all'
+#   - Fix automatically with 'git apply --whitespace=fix'
+# ----------------------------------------------------------------------------------------------------------------------
+
+
+# ----------------------------------------------------------------------------------------------------------------------
+# Git LFS (uncomment if you use LFS for large assets)
+# *.psd filter=lfs diff=lfs merge=lfs -text
+# *.bin filter=lfs diff=lfs merge=lfs -text
+# ----------------------------------------------------------------------------------------------------------------------
+
+
+# Binary formats
+# ----------------------------------------------------------------------------------------------------------------------
+
+# Archive & compressed archive.
+*.iso     binary
+*.tar     binary
+*.bz2     binary
+*.gz      binary
+*.phar    binary
+*.rar     binary
+*.tar.gz  binary
+*.tgz     binary
+*.zip     binary
+
+# Adobe.
+*.ai      binary
+*.eps     binary
+*.pdf     binary
+*.ps      binary
+*.psd     binary
+
+# Audio/video.
+*.mp3     binary
+*.mp4     binary
+*.oga     binary
+*.ogg     binary
+*.ogv     binary
+*.ogx     binary
+*.webm    binary
+
+# Fonts.
+*.eot     binary
+*.otf     binary
+*.ttf     binary
+*.woff    binary
+*.woff2   binary
+
+# Images.
+*.bmp     binary
+*.gif     binary
+*.ico     binary
+*.jpeg    binary
+*.jpg     binary
+*.png     binary
+*.svgz    binary
+*.tif     binary
+*.tiff    binary
+*.webp    binary
+
+# Libre Office.
+*.odb     binary
+*.odf     binary
+*.odg     binary
+*.odm     binary
+*.odp     binary
+*.ods     binary
+*.odt     binary
+*.otg     binary
+*.otp     binary
+*.ots     binary
+*.ott     binary
+
+# Microsoft Office.
+*.docx    binary
+*.dotx    binary
+*.potx    binary
+*.pptx    binary
+*.xlsx    binary
+*.xltx    binary
+
+# Microsoft Office (legacy).
+*.doc     binary
+*.dot     binary
+*.pot     binary
+*.ppt     binary
+*.xls     binary
+*.xlt     binary
+
+# OS-generated & metadata files
+.DS_Store binary
+
+# Other.
+*.dll     binary
+*.exe     binary

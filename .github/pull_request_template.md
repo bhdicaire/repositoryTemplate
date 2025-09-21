@@ -1,0 +1,4 @@
+- [ ] The pull request is complete
+  - [ ] The documentation is up-to-date including the changelog
+- [ ] The pull request has a descriptive title that describes what has changed, and provides enough context
+- [ ] When applicable, the pull request title starts with the issue number

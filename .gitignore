@@ -1,0 +1,42 @@
+##### Folders #####
+.apdisk
+.tmp/
+.venv/
+.vscode/*
+$RECYCLE.BIN/
+build/
+dist/
+Network Trash Folder
+node_modules/
+resources/
+temp/
+Temporary Items
+var/
+vendor/
+wip/
+
+##### Files #####
+._*
+.com.apple.timemachine.donotpresent
+.DocumentRevisions-V100
+.DS_Store
+.fseventsd
+.hugo_build.lock
+.hvm
+.idea
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+[Dd]esktop.ini
+*.ignore.*
+*.lnk
+ehthumbs.db
+ignore.*
+package-lock.json
+Thumbs.db
+
+##### Environment variables and secret keys #####
+.env
+.env.test
+*.pem

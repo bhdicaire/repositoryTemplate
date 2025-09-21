@@ -1,0 +1,41 @@
+{
+  "name": "templateRepository",
+  "version": 1.0",
+  "description": "Repository template with batteries included",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhdicaire/templateRepository.git"
+  },
+  "keywords": [
+    "github-template",
+    "issue-management",
+    "issue-template",
+    "issues",
+    "pull-request-template",
+    "readme",
+    "template-project",
+    "template-repository",
+    "template",
+    "templates"
+  ],
+  "author": {
+    "name": "Benoît H. Dicaire",
+    "email": "code@Dicaire.com",
+    "url": "https://BHDicaire.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhdicaire/templateRepository/issues"
+  },
+  "homepage": "https://github.com/bhdicaire/templateRepository",
+  "devDependencies": {
+    "@commitlint/cli": "^19.2.1",
+    "@commitlint/config-conventional": "^19.1.0",
+    "husky": "^9.0.11",
+    "textlint": "^14.0.4",
+    "textlint-rule-no-todo": "^2.0.1"
+  },
+  "scripts": {
+    "prepare": "husky"
+  }
+}
