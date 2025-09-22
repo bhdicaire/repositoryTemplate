@@ -5,7 +5,7 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/bhdicaire/repositoryTemplate?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=C25100)
 ![GitHub licence](https://img.shields.io/github/license/bhdicaire/repositoryTemplate?style=flat-square&logoColor=186ADE&labelColor=3E5462&color=C25100)
 
-This repository is a _template_ you can [use](https://github.com/bhdicaire/repositoryTemplate/generate) to start new projects with a consistent structure and [batteries included]((docs/bestPractices.md)).
+This repository is a _template_ you can [use](https://github.com/bhdicaire/repositoryTemplate/generate) to start new projects with a consistent structure and [batteries included](docs/bestPractices.md)).
 
 ## :notebook_with_decorative_cover: Ingredients
 
@@ -15,7 +15,7 @@ This repository is a _template_ you can [use](https://github.com/bhdicaire/repos
 Setup contributing guidelines to help collaborators make meaningful, useful contributions to a project:
 
 * [Code of conducts](.github/CODE_OF_CONDUCT.md) adapted from the [Contributor Covenant, version 3.0](https://www.contributor-covenant.org/version/3/0/) to ensure that no manual changes are required per project
-* [Code owners](.github/CODEOWNERS.md): lists the project's maintainers to specific areas of the codebase
+* [Code owners](.github/CODEOWNERS): lists the project's maintainers to specific areas of the codebase
 * [Contributing](.github/CONTRIBUTING.md): reporting bugs & issues, and submitting pull requests based on [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [Governance](.github/GOVERNANCE.md): describe how decisions are made and how contributions are managed
 * [License](.github/LICENSE.md): it uses a [MIT License](https://choosealicense.com/licenses/mit/)
@@ -28,13 +28,13 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
 
 * [Config](.github/ISSUE_TEMPLATE/config.yml): customize the issue template chooser
 * [Labels](.github/labels.yml): add labels for type (bug, feature, docs), status (in progress, blocked), and priority
-* [Pull request template](.github/pull_request_template.md): explain how contributors can keeps pull requests small and focused
+* [Pull request template](.github/pull_request_template.md): explain how contributors can keep pull requests small and focused
 * [Support](.github/SUPPORT.md): explain how contributors can get help
 
 * Issue templates:
     1. [Bug](.github/ISSUE_TEMPLATE/bug.yml)
    2. [Documentation including README.md](.github/ISSUE_TEMPLATE/docs.yml)
-   3. [Feature request](.github/ISSUE_TEMPLATE/docs.yml)
+   3. [Feature request](.github/ISSUE_TEMPLATE/feature-request.yml)
    4. [Question or support Request](.github/ISSUE_TEMPLATE/question-support.yml)
    5. [Report a security vulnerability](.github/SECURITY.md)
 
@@ -66,7 +66,7 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
   * [ ] Review `.github/GOVERNANCE.md`
   * [ ] Review `.github/CONTRIBUTING.md`
   * [ ] Update `.github/MAINTAINERS.md`
-  * [ ] Update `.github/CODEOWNERS.md`
+  * [ ] Update `.github/CODEOWNERS`
   * [ ] Update `.github/SECURITY.md`
   * [ ] Configure the `private vulnerability reporting` in the [GitHub UI](../../settings/security_analysis)
 * [ ] Update the [Issues & PRs](https://github.com/bhdicaire/repositoryTemplate/blob/main/docs/bestPractices.md#issues--prs)
@@ -74,7 +74,7 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
   * [ ] Review `.github/ISSUE_TEMPLATE/config.md`
   * [ ] Review `.github/ISSUE_TEMPLATE/bug.yml`
   * [ ] Review `.github/ISSUE_TEMPLATE/docs.yml`
-  * [ ] Review `.github/ISSUE_TEMPLATE/features-request.yml`
+  * [ ] Review `.github/ISSUE_TEMPLATE/feature-request.yml`
   * [ ] Review `.github/ISSUE_TEMPLATE/question-support.yml`
   * [ ] Review `.github/SECURITY.md`
   * [ ] Review `.github/labels.yml`
@@ -149,8 +149,8 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
 
 Pull requests are welcome :grin:
 
-For major changes, please open an issue first to discuss what you would like to change. Refer to the [contribution guidelines](./.github/CONTRIBUTING.md) and adhere to this [project's code of conduct](./.github/CODE_OF_CONDUCT.md).
+For major changes, please open an issue first to discuss what you would like to change. Refer to the [contribution guidelines](.github/CONTRIBUTING.md) and adhere to this [project's code of conduct](./.github/CODE_OF_CONDUCT.md).
 
 ## License
 
-Copyright (c) 2025 Benoît H. Dicaire and licensed under the [MIT license](https://choosealicense.com/licenses/mit/). See [LICENSE.md](./github/LICENSE.md) for more information.
+Copyright (c) 2025 Benoît H. Dicaire and licensed under the [MIT license](https://choosealicense.com/licenses/mit/). See [LICENSE.md](.github/LICENSE.md) for more information.
