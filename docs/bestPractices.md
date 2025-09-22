@@ -65,7 +65,7 @@ Use issue templates:
 
  1. [Bug](../.github/ISSUE_TEMPLATE/bug.yml)
  2. [Documentation including README.md](../.github/ISSUE_TEMPLATE/docs.yml)
- 3. [Feature request](../.github/ISSUE_TEMPLATE/docs.yml)
+ 3. [Feature request](../.github/ISSUE_TEMPLATE/feature-request.yml)
  4. [Question or support](../.github/ISSUE_TEMPLATE/question-support.yml)
  5. [Security report](../.github/SECURITY.md)
 
@@ -95,8 +95,8 @@ A well-structured `README.md` makes your project easier to understand and naviga
 
 * GitHub use  [Common Marker](https://github.com/gjtorikian/commonmarker) for Markdown
   * It's support the [CommonMark specification](https://commonmark.org/) and extensions documented in the [GitHub Flavored Markdown spec](http://github.github.com/gfm/), such as support for tables, strikethroughs, and autolinking. [:octocat:source](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* Add [badges](badges.md]) to show build status, coverage, or other project metadata
-* Use [emojis](emojis.md) to make issues and PRs easier to read
+* Add [badges](./badges.md]) to show build status, coverage, or other project metadata
+* Use [emojis](./emojis.md) to make issues and PRs easier to read
 
 ### Permanent File Links
 
@@ -117,9 +117,9 @@ Add images to improve readability:
 * Header image: 1200 × 300 px @ 72 DPI
 * Social media preview: 640 × 320 px @ 72 DPI
 
-Upload a  [social media image](socialMedia.png) to customize your repo’s appearance. [:octocat:source]((https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview) )
+Upload a  [social media image](./socialMedia.png) to customize your repo’s appearance. [:octocat:source]((https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview) )
 
-![social media image](socialMedia.png)
+![social media image](./socialMedia.png "social media image")
 
 ## GitHub Accounts and Organisations
 
@@ -130,7 +130,7 @@ Usually you're personal GitHub account is also used to collaborate in your organ
 * Use [SSH Keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh) for authentication and commit signing
 * Enable push protection to prevent committing secrets
   * Users in the [GitHub UI](https://docs.github.com/en/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-in-the-github-ui) and from the [command line](https://docs.github.com/en/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line)
-  * [Push protection for repositories and organizations](https://docs.github.com/en/code-security/secret-scanning/introduction/about-push-protection) (e.g., [secret scanning](https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-pattern) feature) [:octocat:source](https://docs.github.com/en/code-security/getting-started/best-practices-for-preventing-data-leaks-in-your-organization)
+  * [Push protection for repositories and organizations](https://docs.github.com/en/code-security/secret-scanning/introduction/about-push-protection) (e.g., [secret scanning](https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) feature) [:octocat:source](https://docs.github.com/en/code-security/getting-started/best-practices-for-preventing-data-leaks-in-your-organization)
 * Assign at least two owners per organization to ensure continuity
   * Keep in mind that organization owners have full administrative access to the organization
 * Access [GitHub's compliance reports](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/accessing-compliance-reports-for-your-organization) (SOC, CSA CAIQ, etc.) for your organization
