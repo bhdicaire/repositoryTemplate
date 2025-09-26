@@ -15,12 +15,6 @@
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <img width='200' src="https://github-readme-activity-graph.vercel.app/graph?username=bhdicaire&theme=tokyo-night" /> | `https://github-readme-activity-graph.vercel.app/graph?username={username}` | `https://github-readme-activity-graph.vercel.app/graph?username={username}&theme={theme_name}` |
 
-### 📑 Gist Pin
-
-| Badge                                                                                                                                 | URL                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| <img width='200' src="https://gists-readme.yizack.com/api/pin?user=bhdicaire&id=/bdd5ab4877605bd06ee680428b61664f&owner=true" /> | `https://gists-readme.yizack.com/api/pin?user={username}&id={gist_id}&owner=true` |
-
 ### 📄 Gists List Card
 
 | Badge                                                                              | URL                                                   |
@@ -41,7 +35,7 @@
 
 | Badge                                                                                                                  | URL                                                                                       | Theme                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| <img width='200' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhdicaire" /> | `https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}` | `https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}&theme={theme_name}` |
+| <img width='200' src="https://github-readme-stats.vercel.app/api?username=bhdicaire&show_icons=true&hide_border=false&count_private=true&hide_title=false" /> | `https://github-readme-stats.vercel.app/api?username={username}` | `https://github-readme-stats.vercel.app/api?username={username}&theme={theme_name}` |
 
 ### 📊 Most Used Language
 
@@ -49,13 +43,7 @@
 
 | Badge                                                                                                    | URL                                                                         | Theme                                                                                          |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhdicaire" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme={theme_name}` |
-
-### 🎯 Profile Hits Counter
-
-| Badge                                                                                                                                                                                                                                              | URL                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <img width='200' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbhdicaire%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" /> | `https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter` |
+| <img width='200' src="https://github-readme-stats.vercel.app/api?username=bhdicaire&show_icons=true&hide_border=false&count_private=true&hide_title=false" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme={theme_name}` ||
 
 ### ⏱ Streak Stats
 
@@ -148,7 +136,7 @@
 | Badge                                                                                                                          | URL                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />                         | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`                         |
-| <img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD">      | `https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD`    |
+| <img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD">      | `https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD`    |
 | <img src="https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white" />                     | `https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425" />                        | `https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425`                        |
 | <img src="https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white" />                             | `https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white`                             |
