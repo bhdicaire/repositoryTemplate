@@ -1,11 +1,46 @@
-# Reference: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+# ==============================================================================
+# CODEOWNERS (Example structure)
+# https://docs.github.com/en/repositories/managing-repository-settings-and-usage-with-github-codeowners/about-codeowners
+# ==============================================================================
 
+# ------------------------------------------------------------------------------
+# DEFAULT OWNERS for everything in the repository
+#
+# Unless a later match takes precedence,they will be requested
+# for review when someone opens a pull request
+# ------------------------------------------------------------------------------
+* @bhdicaire @patd42
 
-# These owners will be the default owners for everything in
-# the repo. Unless a later match takes precedence,they will
-# be requested for review when someone opens a pull request.
-*       @bhdicaire
+# ------------------------------------------------------------------------------
+# CI/CD & AUTOMATION
+#
+# Require review from core owners for workflow changes
+# ------------------------------------------------------------------------------
+/.github/workflows/ @patd42
+/.github/ACTIONS/   @patd42
 
-# In this example, @bhdicaire owns any file in the `/docs`
-# directory and any of its subdirectories.
-/docs/ @bhdicaire
+# ------------------------------------------------------------------------------
+# SECURITY & SENSITIVE FILES
+#
+# Critical for protecting secrets, dependencies, and repo configuration
+# ------------------------------------------------------------------------------
+/SECURITY.md        @bhdicaire
+/*requirements*.txt @patd42
+/package*.json      @patd42
+/Dockerfile         @patd42
+
+# ------------------------------------------------------------------------------
+# DOCUMENTATION & OPEN SOURCE COMMUNITY
+# Non-technical contributors or specific documentation leads can be assigned here
+# ------------------------------------------------------------------------------
+/docs/              @bhdicaire
+/*.md               @bhdicaire
+/LICENSE            @patd42 @bhdicaire
+
+# ------------------------------------------------------------------------------
+# SPECIFIC PATHS / MODULES
+#
+# Override defaults for specific folders or domains as your team grows.
+# ------------------------------------------------------------------------------
+# /src/frontend/    @bhdicaire
+# /src/backend/     @patd42
