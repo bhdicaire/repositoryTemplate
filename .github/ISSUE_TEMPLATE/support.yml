@@ -1,0 +1,20 @@
+name: ❓ Question or Support Request
+description: Questions and requests for support
+title: "question: <short description>"
+labels: ["question ❓", "support", "status: needs triage"]
+assignees:
+  - bhdicaire
+body:
+  - type: checkboxes
+    attributes:
+      label: Pre-flight Check
+      options:
+        - label: I have searched existing issues and discussions.
+          required: true
+
+  - type: textarea
+    attributes:
+      label: Question / Support Request
+      description: Describe your question or what you need support with in detail.
+    validations:
+      required: true

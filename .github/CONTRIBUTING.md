@@ -1,52 +1,33 @@
 # Contributing Guide
 
-Thanks for considering a contribution to this project, we appreciate your time and ideas!
+Thanks for taking the time to contribute! We welcome bug reports, feature proposals, documentation fixes, and code improvements.
 
-We aim to make contributing as easy and transparent as possible. Whether it's:
- * Reporting a bug
- * Discussing the current state of the code
- * Submitting a fix
- * Proposing new features
- * Becoming a maintainer
+We use GitHub to host code, track issues, and review pull requests.
 
-We use GitHub to host code, track issues/ feature requests, and review pull requests.
+We are committed to maintaining a safe, inclusive, and welcoming community. Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before participating.
 
-:point_right: First-time contributor? Don't worry, we'll guide you through it. Start by creating an [account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
+## Reporting Bugs & Issues
 
-## Code of Conduct
+> ⚠️ **Security Warning:** Do not report security vulnerabilities in public issues. Please follow our [Security Guidelines](./SECURITY.md) to report security concerns privately.
 
-We are committed to fostering a safe, inclusive, and harassment-free community.
-Please review our [code of conduct](.github/CODE_OF_CONDUCT.md) before contributing.
+Before opening a new issue, please **[search existing issues](../../../issues)** to see if it has already been reported. If it has, please add a comment with extra context instead of opening a new issue.
 
-## Reporting Bugs & Issues :bug:
+When opening a **[new bug report](../../../issues/new/choose)**, please include:
+* **Summary:** A quick description of the issue
+* **Steps to Reproduce:** Clear, step-by-step instructions (include code snippets if applicable)
+* **Expected vs. Actual Behavior:** What you expected to happen vs. what actually happened
+* **Environment / Context:** OS, runtime version, error logs, or any attempted fixes
 
-:warning: Security issues must not be reported publicly, please follow our [security](.github/SECURITY.md) guidelines.
+## Submitting Pull Requests
+> ⚠️ **Proposing Large Changes?**
+> For major new features, architectural overhauls, or breaking changes, please **[open an Issue](../../../issues/new/choose) to discuss your proposal first** before writing code. This ensures alignment with the project roadmap and saves you time. See our [GOVERNANCE.md](./GOVERNANCE.md) for details on proposal decisions.
 
-If you find a bug, open a new [issue](../../../issues/new/choose). A great bug report includes:
- * A quick summary or background information
- * Steps to reproduce, be specific and include sample code if possible
- * What you expected to happen
- * What actually happened
- * Any notes such as the possible causes, related issues, or attempted fixes
+We follow [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow). Pull requests (PRs) are the preferred way to propose changes.
 
-Before submitting:
- * Check our [issue backlog](../../../issues) to ensure it hasn't already been reported
- * If it has, please add a comment with extra context instead of opening a new issue
+By submitting a pull request, you agree that your contributions will be licensed under the project's [License](./LICENSE.md).
 
-## Submitting Pull Requests :rocket:
+**Best Practices for Faster Merges**
 
-We follow [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow), pull requests (PRs) are the best way to propose changes.
-
-Here's the process:  
-1. Fork the repo and create your branch from `main` 
-2. Ensure you follows our linting/style guidelines
-3. If you've added code, include tests when possible and run the full test suite to ensure everything passes
-4. If you've changed APIs, update relevant documentation
-5. Open a pull request with a clear title and description
-
-By submitting a PR, you agree that your work will be licensed under this project's [License](LICENSE).
-
-**Tips for Successful Contributions** :bulb:
- * Keep PRs focused and small, it's easier to review and merge
- * Write clear commit messages (e.g., fix: resolve null pointer issue in auth flow)
- * Be respectful and collaborative during code reviews
+* **Keep PRs Atomic:** Small, focused PRs are reviewed and merged much faster than large overhauls.
+* **Use Conventional Commits:** Write clear commit messages (e.g., `fix: resolve null pointer in auth flow` or `docs: update setup steps`)
+* **Collaborate in Reviews:** Be open to feedback and discussion during code review

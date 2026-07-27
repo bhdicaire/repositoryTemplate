@@ -11,36 +11,43 @@
 # ------------------------------------------------------------------------------
 * @bhdicaire @patd42
 
+
 # ------------------------------------------------------------------------------
 # CI/CD & AUTOMATION
 #
 # Require review from core owners for workflow changes
 # ------------------------------------------------------------------------------
-/.github/workflows/ @patd42
-/.github/ACTIONS/   @patd42
+
+# /.github/workflows/ @patd42
+# /.github/ACTIONS/   @patd42
+
 
 # ------------------------------------------------------------------------------
 # SECURITY & SENSITIVE FILES
 #
 # Critical for protecting secrets, dependencies, and repo configuration
 # ------------------------------------------------------------------------------
-/SECURITY.md        @bhdicaire
-/*requirements*.txt @patd42
-/package*.json      @patd42
-/Dockerfile         @patd42
+
+# /SECURITY.md        @bhdicaire
+# /*requirements*.txt @patd42
+# /package*.json      @patd42
+# /Dockerfile         @patd42
 
 # ------------------------------------------------------------------------------
 # DOCUMENTATION & OPEN SOURCE COMMUNITY
 # Non-technical contributors or specific documentation leads can be assigned here
 # ------------------------------------------------------------------------------
-/docs/              @bhdicaire
-/*.md               @bhdicaire
-/LICENSE            @patd42 @bhdicaire
+
+# /docs/              @bhdicaire
+# /*.md               @bhdicaire
+# /LICENSE            @patd42 @bhdicaire
+
 
 # ------------------------------------------------------------------------------
 # SPECIFIC PATHS / MODULES
 #
 # Override defaults for specific folders or domains as your team grows.
 # ------------------------------------------------------------------------------
+
 # /src/frontend/    @bhdicaire
 # /src/backend/     @patd42

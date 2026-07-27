@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-    - name: Send an e-mail to the maintainer
-      url: mailto:code@dicaire.com
-      about: Please do NOT use this email to post issues or feature requests
+  - name: 💬 GitHub Discussions
+    url: https://github.com/bhdicaire/repositoryTemplate/discussions
+    about: Ask questions, share ideas, or discuss project usage

@@ -1,20 +1,21 @@
-### Hi there :wave:
+# Getting Support
 
-We’re excited that you’re using this project!
+Thanks for using our project. We’re excited to have you in the community.
 
-Please remember: this project is maintained by people volunteering their time, often alongside full-time jobs. While we’ll do our best to help, support here is **community-driven and provided as best-effort**. You are not entitled to free customer service.
+Please keep in mind: **this project is maintained by volunteers in their free time**. While we do our best to help, support is community-driven and provided on a best-effort basis.
 
-### General information
-- To report security vulnerabilities, please see [SECURITY.md](SECURITY.md)
-- To contribute, check the [contribution guidelines](CONTRIBUTING.md), and the [code of conduct](CODE_OF_CONDUCT.md)
-- For everything else, open an [issue](../../../issues/new/choose)
+* 🐛 **Found a bug?** Open a [GitHub Issue](../../../issues/new/choose).
+* 🔒 **Found a security issue?** Do **not** post publicly. See our [Security Policy](./SECURITY.md).
+* 🤝 **Want to contribute code or docs?** Read our [Contributing Guide](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
+* 💬 **Have a general question or idea?** Start a [GitHub Discussion](../../../discussions).
 
-### Help us, help you :bulb:
+## Help us, help you
 
-The more detail you provide, the easier it is for us to help:  
-- Clarify whether your question is about a **concept** you don’t understand or a **problem** you’ve encountered
-- Describe the **steps you took** and what you observed
-- Avoid asking about your workaround instead of the actual problem (see the [XY Problem](https://mywiki.wooledge.org/XyProblem))
-- Try the [rubber duck debugging method](https://rubberduckdebugging.com) before opening an [issue](../../../issues/new/choose)
+The better details you provide, the faster and more effectively the community can help:
 
-### Thanks :raised_hands:
+* **Clarify Your Goal:** Are you asking about a **concept** you don't understand, or a **specific bug** you encountered?
+* **Provide Steps to Reproduce:** List the exact steps you took, environment details, and actual vs. expected results
+* **Avoid the XY Problem:** Focus on describing your **actual root problem**, not just the specific workaround you're attempting (see the [XY Problem guide](https://mywiki.wooledge.org/XyProblem))
+* **Try Rubber Ducking:** Walk through your problem step-by-step using [Rubber Duck Debugging](https://rubberduckdebugging.com) before opening a new issue—you might solve it yourself
+
+Thank you for being part of the community! 🙌

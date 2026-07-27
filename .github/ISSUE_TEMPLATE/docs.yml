@@ -1,13 +1,20 @@
-name: 📚 Documentation including README.md
-description: File a bug/issue for docs or README.md
-title: "[bug] <title>"
-labels: [docs, needs-triage]
+name: 📝 Documentation Update
+description: Report an issue or suggestion for README or documentation
+title: "docs: <short description>"
+labels: ["type: docs 📝", "status: needs triage"]
 assignees:
   - bhdicaire
 body:
-- type: textarea
-  attributes:
-    label: Docs/README.md Part to update
-    description: A concise description of what you thing should be updated
-  validations:
-    required: true
+  - type: textarea
+    attributes:
+      label: Documentation Page / Section
+      description: Which file or section needs updating? (e.g., README.md, CONTRIBUTING.md)
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Suggested Changes
+      description: Describe what is missing, inaccurate, or needs improvement.
+    validations:
+      required: true
