@@ -26,7 +26,7 @@ Set up guidelines and governance to help collaborators contribute effectively. [
 
 Add a `.github/LICENSE.md` so others know how they can use and contribute to your project. [:octocat:source](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
-This repository uses a [MIT License](https://choosealicense.com/licenses/mit/), use [choosealicense.com](choosealicense.com) to understand how to license your code.
+This repository uses a [MIT License](https://choosealicense.com/licenses/mit/), use [choosealicense.com](https://choosealicense.com) to understand how to license your code.
 
 ### `.github/CODE_OF_CONDUCT.md`
 
@@ -50,7 +50,7 @@ Clear ownership guidelines improve collaboration:
 Enable private reporting so vulnerabilities go directly to repository administrators. [:octocat:source](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/configuring-private-vulnerability-reporting-for-a-repository)
   ![project PrivateReporting screenshot](repoPrivateReporting.png)
 
-Be sure to configure notifications for these reports. :octocat:source
+Be sure to configure notifications for these reports.
 
 Enabling private reporting at the user level secures all repositories you own. [:octocat:source](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/configuring-private-vulnerability-reporting-for-a-repository#configuring-notifications-for-private-vulnerability-reporting)
   ![user PrivateReporting screenshot](userPrivateReporting.png)
@@ -65,13 +65,13 @@ Use issue templates:
 
  1. [Bug](../.github/ISSUE_TEMPLATE/bug.yml)
  2. [Documentation including README.md](../.github/ISSUE_TEMPLATE/docs.yml)
- 3. [Feature request](../.github/ISSUE_TEMPLATE/feature-request.yml)
- 4. [Question or support](../.github/ISSUE_TEMPLATE/question-support.yml)
+ 3. [Feature request](../.github/ISSUE_TEMPLATE/feature.yml)
+ 4. [Question or support](../.github/ISSUE_TEMPLATE/support.yml)
  5. [Security report](../.github/SECURITY.md)
 
 Add  [labels](../.github/labels.yml) for type (bug, feature, docs), status (in progress, blocked), and priority. [:octocat:source](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
 
-Keep PRs small and focused, using the [pull request template](../.github/pull_request_template.md).
+Keep PRs small and focused, using the [pull request template](../.github/PULL_REQUEST_TEMPLATE.md).
 
 ## Opinionated configurations
 
@@ -95,7 +95,7 @@ A well-structured `README.md` makes your project easier to understand and naviga
 
 * GitHub use  [Common Marker](https://github.com/gjtorikian/commonmarker) for Markdown
   * It's support the [CommonMark specification](https://commonmark.org/) and extensions documented in the [GitHub Flavored Markdown spec](http://github.github.com/gfm/), such as support for tables, strikethroughs, and autolinking. [:octocat:source](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* Add [badges](./badges.md]) to show build status, coverage, or other project metadata
+* Add [badges](./badges.md) to show build status, coverage, or other project metadata
 * Use [emojis](./emojis.md) to make issues and PRs easier to read
 
 ### Permanent File Links

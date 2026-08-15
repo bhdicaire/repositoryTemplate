@@ -20,7 +20,7 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
 * [Governance](.github/GOVERNANCE.md): describe how decisions are made and how contributions are managed
 * [License](.github/LICENSE.md): it uses a [MIT License](https://choosealicense.com/licenses/mit/)
 * [Maintainers](.github/MAINTAINERS.md): lists the project's maintainers and how to contact them
-* [Security](./github/SECURITY.md"): provide public instructions for reporting security issues
+* [Security](.github/SECURITY.md): provide public instructions for reporting security issues
 
 </details>
 <details>
@@ -28,14 +28,14 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
 
 * [Config](.github/ISSUE_TEMPLATE/config.yml): customize the issue template chooser
 * [Labels](.github/labels.yml): add labels for type (bug, feature, docs), status (in progress, blocked), and priority
-* [Pull request template](.github/pull_request_template.md): explain how contributors can keep pull requests small and focused
+* [Pull request template](.github/PULL_REQUEST_TEMPLATE.md): explain how contributors can keep pull requests small and focused
 * [Support](.github/SUPPORT.md): explain how contributors can get help
 
 * Issue templates:
     1. [Bug](.github/ISSUE_TEMPLATE/bug.yml)
    2. [Documentation including README.md](.github/ISSUE_TEMPLATE/docs.yml)
-   3. [Feature request](.github/ISSUE_TEMPLATE/feature-request.yml)
-   4. [Question or support Request](.github/ISSUE_TEMPLATE/question-support.yml)
+   3. [Feature request](.github/ISSUE_TEMPLATE/feature.yml)
+   4. [Question or support Request](.github/ISSUE_TEMPLATE/support.yml)
    5. [Report a security vulnerability](.github/SECURITY.md)
 
 </details>
@@ -71,14 +71,14 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
   * [ ] Configure the `private vulnerability reporting` in the [GitHub UI](../../settings/security_analysis)
 * [ ] Update the [Issues & PRs](https://github.com/bhdicaire/repositoryTemplate/blob/main/docs/bestPractices.md#issues--prs)
   * [ ] Review `.github/SUPPORT.md`
-  * [ ] Review `.github/ISSUE_TEMPLATE/config.md`
+  * [ ] Review `.github/ISSUE_TEMPLATE/config.yml`
   * [ ] Review `.github/ISSUE_TEMPLATE/bug.yml`
   * [ ] Review `.github/ISSUE_TEMPLATE/docs.yml`
-  * [ ] Review `.github/ISSUE_TEMPLATE/feature-request.yml`
-  * [ ] Review `.github/ISSUE_TEMPLATE/question-support.yml`
+  * [ ] Review `.github/ISSUE_TEMPLATE/feature.yml`
+  * [ ] Review `.github/ISSUE_TEMPLATE/support.yml`
   * [ ] Review `.github/SECURITY.md`
   * [ ] Review `.github/labels.yml`
-  * [ ] Review `.github/pull_request_template.md`
+  * [ ] Review `.github/PULL_REQUEST_TEMPLATE.md`
 * [ ] Update [Opinionated configurations](https://github.com/bhdicaire/repositoryTemplate/blob/main/docs/bestPractices.md#opinionated-configurations)
   * [ ] Review `.editorconfig`
   * [ ] Review `.markdownlint.yml`
@@ -111,26 +111,27 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
 ├── .gitignore
 ├── .markdownlint.yml
 ├── CHANGELOG.md
-├── LICENSE
 ├── README.md
 ├── package.json
 ├── .github
-│   ├── CODEOWNERS
-│   ├── CODE_OF_CONDUCT.md
-│   ├── CONTRIBUTING.md
-│   ├── GOVERNANCE.md
-│   ├── LICENSE.md
-│   ├── MAINTAINERS.md
-│   ├── SECURITY.md
-│   ├── SUPPORT.md
-│   ├── labels.yml
-│   ├── pull_request_template.md
-│   └── ISSUE_TEMPLATE
-│       ├── bug.yml
-│       ├── config.yml
-│       ├── docs.yml
-│       ├── feature-request.yml
-│       └── question-support.yml
+│   ├── CODEOWNERS
+│   ├── CODE_OF_CONDUCT.md
+│   ├── CONTRIBUTING.md
+│   ├── GOVERNANCE.md
+│   ├── LICENSE.md
+│   ├── MAINTAINERS.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   ├── SECURITY.md
+│   ├── SUPPORT.md
+│   ├── labels.yml
+│   ├── ISSUE_TEMPLATE
+│   │   ├── bug.yml
+│   │   ├── config.yml
+│   │   ├── docs.yml
+│   │   ├── feature.yml
+│   │   └── support.yml
+│   └── workflows
+│       └── labels.yml
 └── docs
     ├── badges.md
     ├── bestPractices.md
@@ -142,7 +143,7 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
     ├── socialMedia.png
     └── userPrivateReporting.png
 
-4 directories, 32 files
+5 directories, 32 files
 ```
 
 ## Suggestions and improvements are welcome
