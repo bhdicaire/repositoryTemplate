@@ -48,7 +48,7 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
 * [.gitignore](.gitignore): keep sensitive or unnecessary files out of the repository [:link:source](https://git-scm.com/docs/gitignore)
 * [.markdownlint.yml](.markdownlint.yml): style checker and lint tool for Markdown/CommonMark files [:link:source](https://github.com/DavidAnson/markdownlint)
 * [CHANGELOG.md](CHANGELOG.md): maintain a change log following [Keep a Changelog](https://keepachangelog.com/en) format
-* [cspell.json](cspell.json): spell-check Markdown with `npm run lint:spell` in Canadian English (US spellings such as _color_ or _behavior_ are flagged), with the Canadian French terms from [cspell-dict-fr-ca](https://github.com/dicaire/cspell-dict-fr-ca); set `"language": "en,fr"` for French content, or import `cspell-dict-fr-ca/presets/hugo.json` for a bilingual Hugo site [:link:source](https://cspell.org/)
+* [cspell.json](cspell.json): spell-check Markdown with `npm run lint:spell` in Canadian English (US spellings such as `color` or `behavior` are flagged), with the Canadian French terms from [cspell-dict-fr-ca](https://github.com/dicaire/cspell-dict-fr-ca); set `"language": "en,fr"` for French content, or import `cspell-dict-fr-ca/presets/hugo.json` for a bilingual Hugo site [:link:source](https://cspell.org/)
 * [package.json](package.json): information about the repository and required node.js modules [:link:source](https://docs.npmjs.com/cli/v11/configuring-npm/package-json)
 
 </details>
