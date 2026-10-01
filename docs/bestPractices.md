@@ -30,7 +30,7 @@ This repository uses a [MIT License](https://choosealicense.com/licenses/mit/), 
 
 ### `.github/CODE_OF_CONDUCT.md`
 
-Define community standards, set expectations for behavior, and explain how abuse is handled. [:octocat:source](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
+Define community standards, set expectations for behaviour, and explain how abuse is handled. [:octocat:source](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
 
 This repository uses a slightly modified `.github/CODE_OF_CONDUCT.md` based on the [Contributor Covenant v3.0](https://www.contributor-covenant.org/version/3/0/) to ensure that no manual changes are required per project.
 
@@ -121,7 +121,7 @@ Upload a  [social media image](./socialMedia.png) to customize your repo’s app
 
 ![social media image](./socialMedia.png "social media image")
 
-## GitHub Accounts and Organisations
+## GitHub Accounts and Organizations
 
 Usually you're personal GitHub account is also used to collaborate in your organizations' repositories ...
 

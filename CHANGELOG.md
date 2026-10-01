@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- cspell spell-check (`npm run lint:spell`) with the Canadian French dictionary from `cspell-dict-fr-ca`
+- cspell spell-check (`npm run lint:spell`) in Canadian English (`@cspell/dict-en-ca`, US spellings flagged), with the Canadian French dictionary from `cspell-dict-fr-ca`
 - Husky + Commitlint setup for Conventional Commits <-- Work in progress
 
 ### Changed
