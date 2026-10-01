@@ -48,6 +48,7 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
 * [.gitignore](.gitignore): keep sensitive or unnecessary files out of the repository [:link:source](https://git-scm.com/docs/gitignore)
 * [.markdownlint.yml](.markdownlint.yml): style checker and lint tool for Markdown/CommonMark files [:link:source](https://github.com/DavidAnson/markdownlint)
 * [CHANGELOG.md](CHANGELOG.md): maintain a change log following [Keep a Changelog](https://keepachangelog.com/en) format
+* [cspell.json](cspell.json): spell-check Markdown with `npm run lint:spell`, with the Canadian French terms from [cspell-dict-fr-ca](https://github.com/dicaire/cspell-dict-fr-ca); set `"language": "en,fr"` for French content, or import `cspell-dict-fr-ca/presets/hugo.json` for a bilingual Hugo site [:link:source](https://cspell.org/)
 * [package.json](package.json): information about the repository and required node.js modules [:link:source](https://docs.npmjs.com/cli/v11/configuring-npm/package-json)
 
 </details>
@@ -84,6 +85,7 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
   * [ ] Review `.markdownlint.yml`
   * [ ] Review `package.json`
   * [ ] Review `CHANGELOG.md`
+  * [ ] Review `cspell.json` and add project words
   * [ ] Review `.gitignore`
   * [ ] Review `.gitattributes`
 * [ ] Update [Documentation](https://github.com/bhdicaire/repositoryTemplate/blob/main/docs/bestPractices.md#documentation-readmemd)
@@ -112,6 +114,7 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
 ├── .markdownlint.yml
 ├── CHANGELOG.md
 ├── README.md
+├── cspell.json
 ├── package.json
 ├── .github
 │   ├── CODEOWNERS
@@ -143,7 +146,7 @@ Setup contributing guidelines to help collaborators make meaningful, useful cont
     ├── socialMedia.png
     └── userPrivateReporting.png
 
-5 directories, 32 files
+5 directories, 33 files
 ```
 
 ## Suggestions and improvements are welcome

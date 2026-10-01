@@ -1,0 +1,43 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "language": "en",
+  "import": [
+    "cspell-dict-fr-ca/cspell-ext.json"
+  ],
+  "ignorePaths": [
+    ".git/**",
+    "build/**",
+    "dist/**",
+    "node_modules/**",
+    "package-lock.json",
+    "public/**",
+    "resources/**",
+    "wip/**",
+    "_wip/**"
+  ],
+  "ignoreRegExpList": [
+    "/https?:\\/\\/[^\\s)]+/g",
+    "/:[a-z0-9_+-]+:/g",
+    "/`[^`\\n]+`/g"
+  ],
+  "words": [
+    "Alphanum",
+    "Benoît",
+    "CAIQ",
+    "choosealicense",
+    "Dicaire",
+    "highcontrast",
+    "Keycap",
+    "licence",
+    "merko",
+    "monokai",
+    "nord",
+    "onedark",
+    "Organisations",
+    "strikethroughs",
+    "synthwave",
+    "tokyonight",
+    "zenburn"
+  ]
+}

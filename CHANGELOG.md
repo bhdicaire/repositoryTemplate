@@ -6,13 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- Husky + Commitlint setup for Conventional Commits <-- Work in progres
+- cspell spell-check (`npm run lint:spell`) with the Canadian French dictionary from `cspell-dict-fr-ca`
+- Husky + Commitlint setup for Conventional Commits <-- Work in progress
 
 ### Changed
 - Documentation refined for clarity and consistency
 
 ### Fixed
-- N/A
+- `package.json` version was not valid JSON
 
 ## [0.1.0] - 2025-09-21 – First public release of the template repository
 ### Added
